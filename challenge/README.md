@@ -31,9 +31,9 @@ Review the existing code in `index.html`, `main.css`, and `script.js`.
 
 The incomplete logic in `script.js` needs to be finished in order for the basic version of this game to work.
 
-### 2: Improve Board Structure
+### 2: Make a "Random" Feature
 
-### 3: Make a "Reset" Feature
+### 3: Improve User Interface
 
 ### 4: Make a "Shuffle" Feature
 
