@@ -45,7 +45,7 @@ function checkGuess() {
 
     if (letters.indexOf(letterFromGuess) == -1) {
       // If the letterFromGuess can't be found in 'letters', the game is over
-      showMessage("Sorry, not a valid word.")
+      showMessage("Sorry, not a valid word.");
 
       // Return to exit the function
       return;
@@ -53,5 +53,5 @@ function checkGuess() {
   }
 
   // If we've made it this far, then the word must be true!
-  showMessage("Yes, that is a valid word!")
+  showMessage("Yes, that is a valid word!");
 }
