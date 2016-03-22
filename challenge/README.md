@@ -25,11 +25,19 @@ The following words are _incorrect_: `APE` (`E` is not one of the provided lette
 
 Complete each of the challenge objectives in order.
 
-### 1: Complete the Logic
+### 1: Complete the Logic in checkGuess()
 
 Review the existing code in `index.html`, `main.css`, and `script.js`.
 
-The incomplete logic in `script.js` needs to be finished in order for the basic version of this game to work.
+The incomplete logic in the `checkGuess()` function needs to be finished in order for the basic version of this game to work.
+
+**GOOD NEWS!** This step has already been completed for you. The developer who solved it even recorded [this video for you to watch](TODO: need link) so you can get up-to-speed.
+
+As you watch the video, note things like:
+
+- How they go about learning about the existing code
+- What steps they go through to solve the problem
+- How they debug their code
 
 ### 2: Make a "Random" Feature
 
