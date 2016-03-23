@@ -16,6 +16,12 @@ To play, you'll need these _three_ materials:
 1. A **challenge** (coding problem to work on together)
 1. A **feedback log** (place to record feedback)
 
+Your facilitator will help you find a **pair**.
+
+Find the **challenge** in the [challenge/](./challenge/) folder.
+
+The **feedback log** can be found by [following this link][feedback-form].
+
 Once you have these materials, you are ready to start your first pairing session.
 
 After you complete a pairing session, choose another pair and start again! (The game is _recursive_ ;).
@@ -72,3 +78,5 @@ _If you don't ask for verbal feedback from your pair, you will not know your fee
 #### 5. Wrap up
 
 Thank your pair for working with you, shake hands or give them a high five, and move on to your next pairing session!
+
+[feedback-form]: https://lguild.typeform.com/to/uPgbRn
