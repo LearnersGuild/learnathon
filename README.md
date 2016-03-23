@@ -2,7 +2,7 @@
 
 Welcome to the Learners Guild Learnathon!
 
-This is a game to practice collective learning through a series of pair  programming sessions on a set challenge.
+This is a game to practice collective learning through a series of pair programming sessions on a set challenge.
 
 At the end of each session, pairs give feedback to each other on a set of Essential Skills.
 
