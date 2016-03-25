@@ -33,13 +33,17 @@ Once you have these materials, you are ready to start your first pairing session
 
 ## Rules
 
-This is a collaborative, not a competitive game. We are judging you based on your ability
+This is a _collaborative_ game, not a competitive game. You will do better if you focus on giving, receiving, and integrating good feedback.
 
-- Use discernment, not judgment.
-- Be kind to yourself and others.
-- Focus on learning, not competing.
+If you follow these rules, you will do well in the game. If you break these rules, you will be kicked out of the game.
 
-### The Pairing Session
+1. Be honest. A good learning environment requires truth.
+1. Be kind and respectful. Learning is a vulnerable act, so go easy on yourself and others.
+1. Be willing to play. Follow curiosity with your pair.
+
+OK, so we won't kick you out for not being playful. But you'll definitely have a lot more fun.
+
+## The Pairing Session
 
 A pairing session is two people working on the same problem together. You can think of it like group problem solving.
 
