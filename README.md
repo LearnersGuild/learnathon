@@ -78,7 +78,7 @@ Get as far as you can in the time allotted, and don't worry about completing the
 
 #### 4. Log feedback
 
-After practice time is over, stop working on the challenge and take a few minutes to log feedback.
+After practice time is over, stop working on the challenge and take a few minutes to log feedback and submit your code. Follow the instructions in the challenge for how to submit your code.
 
 Each pair should log feedback on their own computer.
 
