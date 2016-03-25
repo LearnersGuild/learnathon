@@ -74,8 +74,12 @@ At the end of the day, bring all the Players back together to:
 
 ## Post-Game
 
+After the game is over, Players need to be evaluated to determine whom will be invited to Round 2.
+
 #### Send the Exit Survey
 
-#### Calculate Player Scores
+Each Player should be emailed a copy of the [Exit Survey](TODO: add link).
+
+In order to be eligible for Round 2 selection, a Player has to complete the Exit Survey.
 
 [feedback-form]: https://lguild.typeform.com/to/uPgbRn
