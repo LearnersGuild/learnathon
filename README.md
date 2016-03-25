@@ -4,27 +4,40 @@ Welcome to the Learners Guild Learnathon!
 
 This is a game to practice collective learning through a series of pair programming sessions on a set challenge.
 
-At the end of each session, pairs give feedback to each other on a set of Essential Skills.
+## Preparing to Play
 
-Your goal is to integrate the feedback you receive and improve your scores over the course of your pairing sessions! The more you are able to improve, the better your overall score.
+Before you can start playing, you'll need two things:
+
+- A GitHub account (sign up at https://github.com/join)
+- Basic knowledge of HTML, CSS, and JavaScript (go through the [Pre-Game Tutorials](#pre-game-tutorials))
 
 ## How to Play
 
-To play, you'll need these _three_ materials:
+The game consists of many [pairing sessions](#the-pairing-session). To play the game, work with your pair to learn as much as you can using the challenge provided.
+
+At the end of each pairing session, pairs give feedback to each other on a set of [essential skills](./skills.md).
+
+Your goal is to integrate the feedback you receive and improve your scores over the course of your pairing sessions! The more you are able to improve, the better your overall score.
+
+You need these materials:
 
 1. A **pair** (another player to work with)
-1. A **challenge** (coding problem to work on together)
 1. A **feedback log** (place to record feedback)
+1. A **challenge** (coding problem to work on together)
 
-Your facilitator will help you find a **pair**.
+Your facilitator will help you find a **pair** and provide you with a link to the **feedback log**.
 
 Find the **challenge** in [this gist][challenge-gist]. Make sure to read the instructions thoroughly.
 
-The **feedback log** can be found by [following this link][feedback-form].
+Once you have these materials, you are ready to start your first pairing session. After you complete a pairing session, choose another pair and start again! (The game is _recursive_ ;).
 
-Once you have these materials, you are ready to start your first pairing session.
+## Rules
 
-After you complete a pairing session, choose another pair and start again! (The game is _recursive_ ;).
+This is a collaborative, not a competitive game. We are judging you based on your ability
+
+- Use discernment, not judgment.
+- Be kind to yourself and others.
+- Focus on learning, not competing.
 
 ### The Pairing Session
 
@@ -81,3 +94,15 @@ Thank your pair for working with you, shake hands or give them a high five, and 
 
 [challenge-gist]: https://gist.github.com/lg-bot/f306837bb0fd958ef5de
 [feedback-form]: https://lguild.typeform.com/to/uPgbRn
+
+---
+
+## Resources
+
+### Pre-Game Tutorials
+
+Before starting the Game, you should have 40-50 hours of programming experience. If you don't know where to begin, we recommend the following tutorials:
+
+- Complete "Make a Website", "Make an Interactive Website", and "Learn the Command Line", "Learn SQL", and "JavaScript" tracks on Codecademy: https://www.codecademy.com/learn/all
+- Complete free Git courses on Code School: https://www.codeschool.com/learn
+- Go through the HTML & CSS course on Shay Howe’s site http://learn.shayhowe.com/html-css/
