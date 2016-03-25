@@ -16,13 +16,17 @@ To prepare for the game, make sure the following tasks are completed:
 - A good internet connection for everyone
 - The [Learnathon instructions and rules](README.md)
 - A pairing schedule (see [this sample for an example](sample-pairing-schedule.md))
-- A Feedback Log (see [this example][feedback-form])
+- A Feedback Log (see [this example][feedback-form]) with pre-loaded Player info
 
 #### Prepare the Feedback Log
+
+Create a new Feedback Log from [the template][feedback-form] to use for this specific Round.
 
 The Feedback Log includes a drop-down menu for Players' GitHub usernames.
 
 You'll need to pre-populate this list using the Players' information, so make sure that all Players provide their GitHub username when registering for the game.
+
+Players will need access to this feedback log, so if you want to mail it to them or make a short URL (using bit.ly, for example) for easy sharing, go ahead.
 
 #### Create a Pairing Schedule
 
@@ -41,7 +45,7 @@ First, you need to orient the Players and explain the game to them. Before they 
 - The schedule for the day
 - How pairing works
 - Who they are pairing with
-- How feedback works
+- How feedback works (share link to Feedback Log)
 - What good feedback looks like
 - How to ask for help
 
