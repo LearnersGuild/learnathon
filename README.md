@@ -55,24 +55,21 @@ As soon as you sit down with your pair, start with a check-in.
 
 Say hi to your pair! Introduce yourself, and share whatever you want to share with them that will help you be present and ready to work together.
 
+If you're willing, now is a good time to also share which skills you are aiming to improve so that your pair can give you specific feedback. Help your pair help you.
+
 Give them time to do the same.
 
-### 2. Set working parameters
+### 2. Designate a driver and navigator
 
-The next step is to determine some basic parameters for pairing together.
+With your pair, determine who will be _driving_ (using the keyboard to write code), and who will be _navigating_ (helping the driver think about the problem and come up with a solution).
 
-With your pair, decide:
-
-- Who will be driving (using the keyboard), and who will be navigating (helping the driver)?
-- Which skills are you aiming to improve? What would you like them to help you with?
-- When do you want to switch drivers/navigators? (some pairs switch half-way, others bounce back and forth as needed)
-- What tools do you want to use?
+You will switch roles halfway through the session, so you will get a chance to be both driver and navigator.
 
 ### 3. Practice the challenge
 
-Once you've set up the working parameters with your pair, you're ready to begin working on the challenge.
+Once you've designated a driver and navigator, you're ready to begin working on the challenge.
 
-Open the challenge and follow the instructions.
+Open the challenge provided and follow the instructions. Decide with your pair which objective you want to work on.
 
 Get as far as you can in the time allotted, and don't worry about completing the _entire_ challenge. It is designed to be _challenging_, after all.
 
