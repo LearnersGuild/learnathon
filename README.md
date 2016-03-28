@@ -126,7 +126,7 @@ _This is a list of the skills you will be working on, with explanatory "I can...
 | Logical Reasoning     | I can use basic logic to test and refine my understanding of a problem.                                                   |
 | Debugging             | I can identify an error, reproduce it, isolate it, and find a correct solution.                                           |
 
-[example-challenge-gist]: TODO create link
+[example-challenge-gist]: https://gist.github.com/lg-bot/d3653ebe023f0f515644
 
 [codecademy-tutorials]: https://www.codecademy.com/learn/all
 [code-school]: https://www.codeschool.com/learn
