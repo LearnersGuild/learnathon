@@ -8,7 +8,7 @@ This is a game to practice collective learning through a series of pair programm
 
 Before you can start playing, you'll need two things:
 
-- A GitHub account (sign up at https://github.com/join)
+- A GitHub account (sign up at [https://github.com/join](https://github.com/join))
 - Basic knowledge of HTML, CSS, and JavaScript (go through the [Pre-Game Tutorials](#pre-game-tutorials))
 
 ## How to Play
@@ -96,9 +96,6 @@ _If you don't ask for verbal feedback from your pair, you will not know your fee
 
 Thank your pair for working with you, shake hands or give them a high five, and move on to your next pairing session!
 
-[challenge-gist]: https://gist.github.com/lg-bot/f306837bb0fd958ef5de
-[feedback-form]: https://lguild.typeform.com/to/uPgbRn
-
 ---
 
 ## Resources
@@ -107,6 +104,13 @@ Thank your pair for working with you, shake hands or give them a high five, and 
 
 Before starting the Game, you should have 40-50 hours of programming experience. If you don't know where to begin, we recommend the following tutorials:
 
-- Complete "Make a Website", "Make an Interactive Website", and "Learn the Command Line", "Learn SQL", and "JavaScript" tracks on Codecademy: https://www.codecademy.com/learn/all
-- Complete free Git courses on Code School: https://www.codeschool.com/learn
-- Go through the HTML & CSS course on Shay Howe’s site http://learn.shayhowe.com/html-css/
+- Complete "Make a Website", "Make an Interactive Website", and "Learn the Command Line", "Learn SQL", and "JavaScript" tracks on [Codecademy][codecademy-tutorials]
+- Complete free Git courses on [Code School][code-school]
+- Go through the HTML & CSS course on [Shay Howe's site][shay-howe]
+
+[challenge-gist]: https://gist.github.com/lg-bot/f306837bb0fd958ef5de
+[feedback-form]: https://lguild.typeform.com/to/uPgbRn
+
+[codecademy-tutorials]: https://www.codecademy.com/learn/all
+[code-school]: https://www.codeschool.com/learn
+[shay-howe]: http://learn.shayhowe.com/html-css/
