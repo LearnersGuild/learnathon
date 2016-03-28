@@ -49,7 +49,7 @@ A pairing session is two people working on the same problem together. You can th
 
 Stages of a pairing session:
 
-#### 1. Check-in
+### 1. Check-in
 
 As soon as you sit down with your pair, start with a check-in.
 
@@ -57,7 +57,7 @@ Say hi to your pair! Introduce yourself, and share whatever you want to share wi
 
 Give them time to do the same.
 
-#### 2. Set working parameters
+### 2. Set working parameters
 
 The next step is to determine some basic parameters for pairing together.
 
@@ -68,7 +68,7 @@ With your pair, decide:
 - When do you want to switch drivers/navigators? (some pairs switch half-way, others bounce back and forth as needed)
 - What tools do you want to use?
 
-#### 3. Practice the challenge
+### 3. Practice the challenge
 
 Once you've set up the working parameters with your pair, you're ready to begin working on the challenge.
 
@@ -76,7 +76,7 @@ Open the challenge and follow the instructions.
 
 Get as far as you can in the time allotted, and don't worry about completing the _entire_ challenge. It is designed to be _challenging_, after all.
 
-#### 4. Log feedback
+### 4. Log feedback
 
 After practice time is over, stop working on the challenge and take a few minutes to log feedback and submit your code. Follow the instructions in the challenge for how to submit your code.
 
@@ -92,7 +92,7 @@ The pair feedback is confidential - the feedback you give them will be anonymize
 
 _If you don't ask for verbal feedback from your pair, you will not know your feedback scores until after the game is over._
 
-#### 5. Wrap up
+### 5. Wrap up
 
 Thank your pair for working with you, shake hands or give them a high five, and move on to your next pairing session!
 
