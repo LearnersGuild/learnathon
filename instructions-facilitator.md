@@ -58,10 +58,20 @@ You are responsible for being timekeeper and setting the pace of pairing session
 This means:
 
 - Letting all Players know when a session starts
+- Letting all Players know when they need to switch pairs
 - Giving them a 5-minute warning before they need to switch to logging feedback
 - Telling all Players to stop working on the challenge and start logging feedback
 - Encouraging all Players to ask for verbal feedback from their pair
 - Giving Players time to switch pairs before the next session
+
+Here is a suggested 40-minute agenda for a pairing session:
+
+- Min 0: Start pairing session ("The pairing session has started! Check in with your pair and pick a driver and navigator.")
+- Min 18: Flip driver/navigator ("Ok, time to switch roles. Drivers become navigators, and navigators become drivers.")
+- Min 25: 5-minute warning for feedback ("Feedback starts in 5 minutes, wrap up your practice.")
+- Min 30: Feedback time ("Time to give feedback! Stop working on the challenge, and log feedback using the feedback form.")
+- Min 35: 5-minute warning; verbal feedback reminder ("5 minutes until next session. Now's the time to get verbal feedback from your pair.")
+- Min 40: Have players find their next pair ("Everybody find the your next pair.")
 
 #### Wrap Up
 
