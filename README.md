@@ -25,9 +25,9 @@ You need these materials:
 1. A **feedback log** (place to record feedback)
 1. A **challenge** (coding problem to work on together)
 
-Your facilitator will help you find a **pair** and provide you with a link to the **feedback log**.
+Your facilitator will help you find a **pair** and provide you with a link to the **feedback log** as well as to your **challenge**.
 
-Find the **challenge** in [this gist][challenge-gist]. Make sure to read the instructions thoroughly.
+_You can find an example challenge in [this gist][example-challenge-gist]. This will be similar to what you will encounter during the actual game. Make sure to read the instructions thoroughly._
 
 Once you have these materials, you are ready to start your first pairing session. After you complete a pairing session, choose another pair and start again! (The game is _recursive_ ;).
 
@@ -154,8 +154,7 @@ I can use basic logic to test and refine my understanding of a problem.
 #### Debugging
 I can identify an error, reproduce it, isolate it, and find a correct solution.
 
-[challenge-gist]: https://gist.github.com/lg-bot/f306837bb0fd958ef5de
-[feedback-form]: https://lguild.typeform.com/to/uPgbRn
+[example-challenge-gist]: TODO create link
 
 [codecademy-tutorials]: https://www.codecademy.com/learn/all
 [code-school]: https://www.codeschool.com/learn
