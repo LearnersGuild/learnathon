@@ -2,7 +2,7 @@
 
 Welcome to the Learners Guild Learnathon!
 
-This is a game to practice collective learning through a series of pair programming sessions on a set challenge.
+The Learnathon is a game to practice collective learning through a series of pair programming sessions on a set challenge.
 
 ## Preparing to Play
 
@@ -31,6 +31,20 @@ _You can find an example challenge in [this gist][example-challenge-gist]. This 
 
 Once you have these materials, you are ready to start your first pairing session. After you complete a pairing session, choose another pair and start again! (The game is _recursive_ ;).
 
+## Winning the Game
+
+There is no single winner of the game. After the game is over, Learners Guild will review the data collected and determine who to invite to Round 2 of Enrollment.
+
+There are only a limited number of spots available, so not everyone will get in.
+
+For the Learnathon, we look most closely at the following criteria (in order of preference):
+
+1. Skill improvement from feedback received
+1. Quality of feedback given
+1. Quality of work produced
+
+Therefore, if you want to do well at the game, focus on those things. Improve your skills by requesting and integrating feedback. Give kind, actionable, and specific feedback to others. And collaborate with your pair to produce the best work you can.
+
 ## Rules
 
 This is a _collaborative_ game, not a competitive game. You will do better if you focus on giving, receiving, and integrating good feedback.
@@ -40,7 +54,7 @@ If you follow these rules, you will do well in the game. If you break these rule
 1. Be honest. A good learning environment requires truth.
 1. Be kind and respectful. Learning is a vulnerable act, so go easy on yourself and others.
 1. Be willing to play. Follow curiosity with your pair.
-1. Give good feedback. Use the [giving good feedback](#giving-good-feedback) suggestion if you don't know what good feedback looks like.
+1. Give good feedback. Use the [giving good feedback](#giving-good-feedback) suggestion if you aren't sure what good feedback looks like.
 
 OK, so we won't kick you out for not being playful. But you'll definitely have a lot more fun.
 
@@ -49,6 +63,12 @@ OK, so we won't kick you out for not being playful. But you'll definitely have a
 A pairing session is two people working on the same problem together. You can think of it like group problem solving.
 
 Stages of a pairing session:
+
+1. Check-in
+1. Designate a driver and navigator
+1. Practice the challenge
+1. Log feedback
+1. Wrap up
 
 ### 1. Check-in
 
