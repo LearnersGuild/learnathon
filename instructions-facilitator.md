@@ -66,12 +66,26 @@ This means:
 
 Here is a suggested 40-minute agenda for a pairing session:
 
-- Min 0: Start pairing session ("The pairing session has started! Check in with your pair and pick a driver and navigator.")
+- Min 0: Start pairing session with theme prompt ("The pairing session has started! Check in with your pair and pick a driver and navigator. For this session, focus on <session theme>")
 - Min 18: Flip driver/navigator ("Ok, time to switch roles. Drivers become navigators, and navigators become drivers.")
 - Min 25: 5-minute warning for feedback ("Feedback starts in 5 minutes, wrap up your practice.")
 - Min 30: Feedback time ("Time to give feedback! Stop working on the challenge, and log feedback using the feedback form.")
 - Min 35: 5-minute warning; verbal feedback reminder ("5 minutes until next session. Now's the time to get verbal feedback from your pair.")
 - Min 40: Have players find their next pair ("Everybody find the your next pair.")
+
+##### Session Themes
+
+Before each session, set a "theme" to direct Players' focus and attention.
+
+Use your best judgment to pick a theme that works best given the context of the room. For example, if you notice that lots of pairs are not talking to each other much, add a theme of "only use one computer" so that navigators are forced to work with drivers on the same computer.
+
+Here is a suggested progression of themes:
+
+1. Focus on communication: pairs optimize for both members fully comprehending their solution over "just getting it to work".
+1. Focus on decomposition: break the problem into as many small pieces as possible.
+1. Focus on procedure: optimize the logic behind any solution before writing any code.
+1. Focus on collaboration: pairs optimize for equal contribution.
+1. Focus on persistence: get through as many objectives as possible.
 
 #### Wrap Up
 
