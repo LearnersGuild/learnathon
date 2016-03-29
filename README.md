@@ -2,7 +2,7 @@
 
 Welcome to the Learners Guild Learnathon!
 
-This is a game to practice collective learning through a series of pair programming sessions on a set challenge.
+The Learnathon is a game to practice collective learning through a series of pair programming sessions on a set challenge.
 
 ## Preparing to Play
 
@@ -30,6 +30,20 @@ Your facilitator will help you find a **pair** and provide you with a link to th
 _You can find an example challenge in [this gist][example-challenge-gist]. This will be similar to what you will encounter during the actual game. Make sure to read the instructions thoroughly._
 
 Once you have these materials, you are ready to start your first pairing session. After you complete a pairing session, choose another pair and start again! (The game is _recursive_ ;).
+
+## Winning the Game
+
+There is no single winner of the game. After the game is over, Learners Guild will review the data collected and determine who to invite to Round 2 of Enrollment.
+
+There are only a limited number of spots available, so not everyone will get in.
+
+For the Learnathon, we look most closely at the following criteria (in order of preference):
+
+1. Skill improvement from feedback received
+1. Quality of feedback given
+1. Quality of work produced
+
+Therefore, if you want to do well at the game, focus on those things. Improve your skills by requesting and integrating feedback. Give kind, actionable, and specific feedback to others. And collaborate with your pair to produce the best work you can.
 
 ## Rules
 
