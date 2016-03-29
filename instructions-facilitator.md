@@ -61,7 +61,7 @@ This means:
 - Letting all Players know when they need to switch pairs
 - Giving them a 5-minute warning before they need to switch to logging feedback
 - Telling all Players to stop working on the challenge and start logging feedback
-- Encouraging all Players to ask for verbal feedback from their pair
+- Encouraging all Players to ask for verbal feedback from their pair (and reminding them to [give good feedback](./README.md#giving-good-feedback))
 - Giving Players time to switch pairs before the next session
 
 Here is a suggested 40-minute agenda for a pairing session:

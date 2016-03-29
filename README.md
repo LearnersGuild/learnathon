@@ -40,6 +40,7 @@ If you follow these rules, you will do well in the game. If you break these rule
 1. Be honest. A good learning environment requires truth.
 1. Be kind and respectful. Learning is a vulnerable act, so go easy on yourself and others.
 1. Be willing to play. Follow curiosity with your pair.
+1. Give good feedback. Use the [giving good feedback](#giving-good-feedback) suggestion if you don't know what good feedback looks like.
 
 OK, so we won't kick you out for not being playful. But you'll definitely have a lot more fun.
 
@@ -83,11 +84,21 @@ First, log feedback for _yourself_. Consider how you fared during that session, 
 
 Second, log feedback for _your pair_. Consider their performance, and pay special attention to any skills that they specifically mentioned they wanted to improve.
 
-The pair feedback is confidential - the feedback you give them will be anonymized and bundled up with other feedback after you submit it.
+The pair feedback is confidential—the feedback you give them will be anonymized and bundled up with other feedback after you submit it.
 
 **However**, it is highly recommended that you ask your pair to share some or all of their feedback for you verbally, especially on the skills you want to improve.
 
 _If you don't ask for verbal feedback from your pair, you will not know your feedback scores until after the game is over._
+
+#### Giving good feedback
+
+If your pair asks you to share feedback, it is important to be kind and respectful when doing so. Here is a good formula to use when giving feedback:
+
+- Share one thing they did well
+- Share one thing they can improve on
+- Offer a suggestion for how they can improve
+
+It is also important to give feedback on _behavior_, not _character_. Saying "One thing you did well is that you have nice hair." is not as useful/actionable as "One thing you did well was ask clarifying questions when you didn't fully understand what I said."
 
 ### 5. Wrap up
 
