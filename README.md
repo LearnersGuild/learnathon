@@ -40,7 +40,7 @@ If you follow these rules, you will do well in the game. If you break these rule
 1. Be honest. A good learning environment requires truth.
 1. Be kind and respectful. Learning is a vulnerable act, so go easy on yourself and others.
 1. Be willing to play. Follow curiosity with your pair.
-1. Give good feedback. Use the [giving good feedback](#giving-good-feedback) suggestion if you don't know what good feedback looks like.
+1. Give good feedback. Use the [giving good feedback](#giving-good-feedback) suggestion if you aren't sure what good feedback looks like.
 
 OK, so we won't kick you out for not being playful. But you'll definitely have a lot more fun.
 
@@ -49,6 +49,12 @@ OK, so we won't kick you out for not being playful. But you'll definitely have a
 A pairing session is two people working on the same problem together. You can think of it like group problem solving.
 
 Stages of a pairing session:
+
+1. Check-in
+1. Designate a driver and navigator
+1. Practice the challenge
+1. Log feedback
+1. Wrap up
 
 ### 1. Check-in
 
