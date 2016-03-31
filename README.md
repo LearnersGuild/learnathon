@@ -13,13 +13,28 @@ Before you can start playing, you'll need two things:
 - A GitHub account (sign up at [https://github.com/join](https://github.com/join))
 - Basic knowledge of HTML, CSS, and JavaScript (go through the [Pre-Game Tutorials](#pre-game-tutorials))
 
-## Stages
+## How to Play
+
+**Your goal** is to complete the challenge as best you can, and to learn as much from your peers so that you can improve your skills over the course of the game. The more you are able to improve, the better your overall score.
+
+You need these materials:
+
+1. A **challenge** (coding problem to work on)
+1. A **feedback log** (place to record feedback)
+
+Your facilitator will provide you with a link to a **feedback log** as well as to your **challenge**.
+
+Once you have these materials, you are ready to start Stage 1 (see below).
+
+_Note: this [example challenge][example-challenge-gist] is similar to what you will encounter during the actual game. We highly recommend trying your hand at it before coming to the game. Make sure to read the instructions thoroughly._
+
+### Stages
 
 There are 3 stages:
 
-1. First Attempt
-2. Pair Learning
-3. Re-Attempt
+1. **First Attempt**
+2. **Pair Learning**
+3. **Re-Attempt**
 
 In the **First Attempt**, you'll attempt to solve a coding challenge on your own. You probably won't finish it, but that's OK—you're not supposed to finish it.
 
@@ -27,43 +42,28 @@ During the **Pair Learning** stage, you'll work with other learners on the same 
 
 Finally, in the **Re-Attempt** stage, you'll work on your own on the same challenge. This time, you'll start _from scratch_ to see how much further you can get than in the First Attempt.
 
-## How to Play
-
-The game consists of many [pairing sessions](#the-pairing-session). To play the game, work with your pair to learn as much as you can using the challenge provided.
-
-At the end of each pairing session, pairs give feedback to each other on a set of [essential skills](#essential-skills).
-
-Your goal is to integrate the feedback you receive and improve your scores over the course of your pairing sessions! The more you are able to improve, the better your overall score.
-
-You need these materials:
-
-1. A **pair** (another player to work with)
-1. A **feedback log** (place to record feedback)
-1. A **challenge** (coding problem to work on together)
-
-Your facilitator will help you find a **pair** and provide you with a link to the **feedback log** as well as to your **challenge**.
-
-_You can find an example challenge in [this gist][example-challenge-gist]. This will be similar to what you will encounter during the actual game. Make sure to read the instructions thoroughly._
-
-Once you have these materials, you are ready to start your first pairing session. After you complete a pairing session, choose another pair and start again! (The game is _recursive_ ;).
-
 ## Winning the Game
 
 There is no single winner of the game. After the game is over, Learners Guild will review the data collected and determine who to invite to Round 2 of Enrollment.
 
-There are only a limited number of spots available, so not everyone will get in.
+We look at the following metrics:
 
-For the Learnathon, we look most closely at the following criteria (in order of preference):
+1. How much you can learn (by improving your challenge solutions)
+1. How much you can help others learn (by helping your pair improve their solution)
 
-1. Skill improvement from feedback received
-1. Quality of feedback given
-1. Quality of work produced
+### How to _Really_ Win the Game
+
+_All that being said_, the Learnathon is best played if you consider it as an opportunity for rich, fun learning. It is as much for _you_ to evaluate _us_.
+
+How well do we nurture a collective learning environment? Is the work fun? Do you get to learn? Consider these and other questions as you go through the day.
+
+If you treat the Learnathon as a opportunity to indulge in curiosity with other motivated learners, we believe you'll have a great time.
 
 Therefore, if you want to do well at the game, focus on those things. Improve your skills by requesting and integrating feedback. Give kind, actionable, and specific feedback to others. And collaborate with your pair to produce the best work you can.
 
 ## Rules
 
-This is a _collaborative_ game, not a competitive game. You will do better if you focus on giving, receiving, and integrating good feedback.
+This is a _collaborative_ game, not a competitive game. You will do better if you focus on giving and receiving help with your peers.
 
 If you follow these rules, you will do well in the game. If you break these rules, you will be kicked out of the game.
 
@@ -77,6 +77,8 @@ OK, so we won't kick you out for not being playful. But you'll definitely have a
 ## The Pairing Session
 
 A pairing session is two people working on the same problem together. You can think of it like group problem solving.
+
+At the end of each pairing session, pairs give feedback to each other on a set of [essential skills](#essential-skills).
 
 Stages of a pairing session:
 
