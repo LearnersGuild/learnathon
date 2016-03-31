@@ -19,8 +19,8 @@ Before you can start playing, you'll need two things:
 
 You need these materials:
 
-1. A **challenge** (coding problem to work on)
-1. A **feedback log** (place to record feedback)
+1. A [challenge](#challenge) (coding problem to work on)
+1. A [feedback log](#feedback-log) (place to record feedback)
 
 Your facilitator will provide you with a link to a **feedback log** as well as to your **challenge**.
 
@@ -32,17 +32,17 @@ _Note: this [example challenge][example-challenge-gist] is similar to what you w
 
 There are 3 stages:
 
-1. **First Attempt**
-2. **Pair Learning**
-3. **Re-Attempt**
+1. [First Attempt](#first-attempt)
+2. [Pair Learning](#pair-learning)
+3. [Re-Attempt](#re-attempt)
 
 In the **First Attempt**, you'll attempt to solve a coding challenge on your own. You probably won't finish it, but that's OK—you're not supposed to finish it.
 
-During the **Pair Learning** stage, you'll work with other learners on the same challenge in a series of [pairing sessions](#the-pairing-session). This is an opportunity to share skills and knowledge, and to get valuable feedback from your pair.
+During the **Pair Learning** stage, you'll work with other learners on the same challenge in a series of pairing sessions. This is an opportunity to share skills and knowledge, and to get valuable feedback from your pair.
 
 Finally, in the **Re-Attempt** stage, you'll work on your own on the same challenge. This time, you'll start _from scratch_ to see how much further you can get than in the First Attempt.
 
-## Winning the Game
+### Winning the Game
 
 There is no single winner of the game. After the game is over, Learners Guild will review the data collected and determine who to invite to Round 2 of Enrollment.
 
@@ -51,7 +51,7 @@ We look at the following metrics:
 1. How much you can learn (by improving your challenge solutions)
 1. How much you can help others learn (by helping your pair improve their solution)
 
-### How to _Really_ Win the Game
+#### How to _Really_ Win the Game
 
 _All that being said_, the Learnathon is best played if you consider it as an opportunity for rich, fun learning. It is as much for _you_ to evaluate _us_.
 
@@ -61,7 +61,7 @@ If you treat the Learnathon as a opportunity to indulge in curiosity with other 
 
 Therefore, if you want to do well at the game, focus on those things. Improve your skills by requesting and integrating feedback. Give kind, actionable, and specific feedback to others. And collaborate with your pair to produce the best work you can.
 
-## Rules
+### Rules
 
 This is a _collaborative_ game, not a competitive game. You will do better if you focus on giving and receiving help with your peers.
 
@@ -74,7 +74,19 @@ If you follow these rules, you will do well in the game. If you break these rule
 
 OK, so we won't kick you out for not being playful. But you'll definitely have a lot more fun.
 
-## The Pairing Session
+## First Attempt
+
+The first stage is a solo session (i.e. you work on your own). There are two steps:
+
+1. Work on the challenge
+1. Submit your challenge attempt
+1. Reflect on your learning
+
+During this stage, you will attempt to solve the objectives in the [challenge](#challenge) on your own. After working on the challenge, submit your attempt (see the challenge for instructions) and reflect on your own learning by [logging feedback](#feedback-log).
+
+You won't have time to complete the whole challenge. The goal is simply to get as far as you can. In the next stage, you'll continue improving on your attempt.
+
+## Pair Learning
 
 A pairing session is two people working on the same problem together. You can think of it like group problem solving.
 
@@ -142,9 +154,23 @@ It is also important to give feedback on _behavior_, not _character_. Saying "On
 
 Thank your pair for working with you, shake hands or give them a high five, and move on to your next pairing session!
 
+## Re-Attempt
+
 ---
 
 ## Resources
+
+### Challenge
+
+When you join the game, your facilitator will provide a link to the challenge used.
+
+In the meantime, you can work on the [example challenge][example-challenge-gist]. It's similar to what you will encounter during the actual game.
+
+### Feedback Log
+
+When you join the game, your facilitator will provide a link to the Feedback Log.
+
+It will cover similar information to the list of [essential skills](#essential-skills)
 
 ### Pre-Game Tutorials
 
