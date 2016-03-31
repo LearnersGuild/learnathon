@@ -2,7 +2,9 @@
 
 Welcome to the Learners Guild Learnathon!
 
-The Learnathon is a game to practice collective learning through a series of pair programming sessions on a set challenge.
+The Learnathon is a game to practice collective learning by working on a set challenge over the course of multiple sessions.
+
+**How much can _you_ learn?**
 
 ## Preparing to Play
 
@@ -10,6 +12,20 @@ Before you can start playing, you'll need two things:
 
 - A GitHub account (sign up at [https://github.com/join](https://github.com/join))
 - Basic knowledge of HTML, CSS, and JavaScript (go through the [Pre-Game Tutorials](#pre-game-tutorials))
+
+## Stages
+
+There are 3 stages:
+
+1. First Attempt
+2. Pair Learning
+3. Re-Attempt
+
+In the **First Attempt**, you'll attempt to solve a coding challenge on your own. You probably won't finish it, but that's OK—you're not supposed to finish it.
+
+During the **Pair Learning** stage, you'll work with other learners on the same challenge in a series of [pairing sessions](#the-pairing-session). This is an opportunity to share skills and knowledge, and to get valuable feedback from your pair.
+
+Finally, in the **Re-Attempt** stage, you'll work on your own on the same challenge. This time, you'll start _from scratch_ to see how much further you can get than in the First Attempt.
 
 ## How to Play
 
