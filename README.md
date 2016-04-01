@@ -9,7 +9,7 @@ The Learnathon is a game to practice collective learning by working on a set cha
 _Contents_
 <!-- TOC depthFrom:2 depthTo:3 withLinks:1 updateOnSave:0 orderedList:0 -->
 
-- [Preparing to Play](#preparing-to-play)
+- [Pre-Game Requirements](#pre-game-requirements)
 - [How to Play](#how-to-play)
   - [Stages](#stages)
   - [Winning the Game](#winning-the-game)
@@ -33,12 +33,20 @@ _Contents_
 
 <!-- /TOC -->
 
-## Preparing to Play
+---
 
-Before you can start playing, you'll need two things:
+## Pre-Game Requirements
 
-- A GitHub account (sign up at [https://github.com/join](https://github.com/join))
-- Basic knowledge of HTML, CSS, and JavaScript (go through the [Pre-Game Tutorials](#pre-game-tutorials))
+Before you can start playing, you'll need three things:
+
+1. A [GitHub account](https://github.com/join)
+2. Basic knowledge of HTML, CSS, and JavaScript
+3. A desire to learn
+
+It is _strongly recommended_ that you also:
+
+- Complete the [Pre-Game Tutorials](#pre-game-tutorials)
+- Go through the [Example Challenge][example-challenge-gist]
 
 ## How to Play
 
@@ -221,8 +229,8 @@ It will cover similar information to the list of [essential skills](#essential-s
 Before starting the Game, you should have 40-50 hours of programming experience. If you don't know where to begin, we recommend the following tutorials:
 
 - Complete "Make a Website", "Make an Interactive Website", and "Learn the Command Line", "Learn SQL", and "JavaScript" tracks on [Codecademy][codecademy-tutorials]
-- Complete free Git courses on [Code School][code-school]
 - Go through the HTML & CSS course on [Shay Howe's site][shay-howe]
+- Complete free Git courses on [Code School][code-school]
 
 ### Essential Skills
 
