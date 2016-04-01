@@ -2,7 +2,36 @@
 
 Welcome to the Learners Guild Learnathon!
 
-The Learnathon is a game to practice collective learning through a series of pair programming sessions on a set challenge.
+The Learnathon is a game to practice collective learning by working on a set challenge over the course of multiple sessions.
+
+**How much can _you_ learn?**
+
+_Contents_
+<!-- TOC depthFrom:2 depthTo:3 withLinks:1 updateOnSave:0 orderedList:0 -->
+
+- [Preparing to Play](#preparing-to-play)
+- [How to Play](#how-to-play)
+  - [Stages](#stages)
+  - [Winning the Game](#winning-the-game)
+  - [Rules](#rules)
+- [First Attempt](#first-attempt)
+- [Pair Learning](#pair-learning)
+  - [1. Check-in](#1-check-in)
+  - [2. Sync up](#2-sync-up)
+  - [3. Build together](#3-build-together)
+  - [4. Log feedback](#4-log-feedback)
+  - [5. Share feedback](#5-share-feedback)
+  - [6. Wrap up](#6-wrap-up)
+- [Re-Attempt](#re-attempt)
+- [Game Over](#game-over)
+- [Resources](#resources)
+  - [Challenge](#challenge)
+  - [Feedback Log](#feedback-log)
+  - [Pre-Game Tutorials](#pre-game-tutorials)
+  - [Essential Skills](#essential-skills)
+- [Frequently Asked Questions](#frequently-asked-questions)
+
+<!-- /TOC -->
 
 ## Preparing to Play
 
@@ -13,120 +42,179 @@ Before you can start playing, you'll need two things:
 
 ## How to Play
 
-The game consists of many [pairing sessions](#the-pairing-session). To play the game, work with your pair to learn as much as you can using the challenge provided.
-
-At the end of each pairing session, pairs give feedback to each other on a set of [essential skills](#essential-skills).
-
-Your goal is to integrate the feedback you receive and improve your scores over the course of your pairing sessions! The more you are able to improve, the better your overall score.
+**Your goal** is to complete the challenge as best you can, and to learn as much from your peers so that you can improve your skills over the course of the game. The more you are able to improve, the better your overall score.
 
 You need these materials:
 
-1. A **pair** (another player to work with)
-1. A **feedback log** (place to record feedback)
-1. A **challenge** (coding problem to work on together)
+1. A [challenge](#challenge) (coding problem to work on)
+1. A [feedback log](#feedback-log) (place to record feedback)
 
-Your facilitator will help you find a **pair** and provide you with a link to the **feedback log** as well as to your **challenge**.
+Your facilitator will provide you with a link to a **feedback log** as well as to your **challenge**.
 
-_You can find an example challenge in [this gist][example-challenge-gist]. This will be similar to what you will encounter during the actual game. Make sure to read the instructions thoroughly._
+Once you have these materials, you are ready to start Stage 1 (see below).
 
-Once you have these materials, you are ready to start your first pairing session. After you complete a pairing session, choose another pair and start again! (The game is _recursive_ ;).
+_Note: this [example challenge][example-challenge-gist] is similar to what you will encounter during the actual game. We highly recommend trying your hand at it before coming to the game. Make sure to read the instructions thoroughly._
 
-## Winning the Game
+### Stages
+
+There are 3 stages:
+
+1. [First Attempt](#first-attempt)
+2. [Pair Learning](#pair-learning)
+3. [Re-Attempt](#re-attempt)
+
+In the **First Attempt**, you'll attempt to solve a coding challenge on your own. You probably won't finish it, but that's OK—you're not supposed to finish it.
+
+During the **Pair Learning** stage, you'll work with other learners on the same challenge in a series of pairing sessions. This is an opportunity to share skills and knowledge, and to get valuable feedback from your pair.
+
+Finally, in the **Re-Attempt** stage, you'll work on your own on the same challenge. This time, you'll start _from scratch_ to see how much further you can get than in the First Attempt.
+
+### Winning the Game
 
 There is no single winner of the game. After the game is over, Learners Guild will review the data collected and determine who to invite to Round 2 of Enrollment.
 
-There are only a limited number of spots available, so not everyone will get in.
+We look at the following metrics:
 
-For the Learnathon, we look most closely at the following criteria (in order of preference):
+1. How much you can learn (by improving your challenge solutions)
+1. How much you can help others learn (by helping your pair improve their solution)
 
-1. Skill improvement from feedback received
-1. Quality of feedback given
-1. Quality of work produced
+#### How to _Really_ Win the Game
+
+_All that being said_, the Learnathon is best played if you consider it as an opportunity for rich, fun learning. It is as much for _you_ to evaluate _us_.
+
+How well do we nurture a collective learning environment? Is the work fun? Do you get to learn? Consider these and other questions as you go through the day.
+
+If you treat the Learnathon as a opportunity to indulge in curiosity with other motivated learners, we believe you'll have a great time.
 
 Therefore, if you want to do well at the game, focus on those things. Improve your skills by requesting and integrating feedback. Give kind, actionable, and specific feedback to others. And collaborate with your pair to produce the best work you can.
 
-## Rules
+### Rules
 
-This is a _collaborative_ game, not a competitive game. You will do better if you focus on giving, receiving, and integrating good feedback.
+This is a _collaborative_ game, not a competitive game. You will do better if you focus on giving and receiving help with your peers.
 
 If you follow these rules, you will do well in the game. If you break these rules, you will be kicked out of the game.
 
-1. Be honest. A good learning environment requires truth.
-1. Be kind and respectful. Learning is a vulnerable act, so go easy on yourself and others.
-1. Be willing to play. Follow curiosity with your pair.
-1. Give good feedback. Use the [giving good feedback](#giving-good-feedback) suggestion if you aren't sure what good feedback looks like.
+1. **Be honest.** A good learning environment requires truth.
+1. **Be kind and respectful.** Learning is a vulnerable act, so go easy on yourself and others.
+1. **Be willing to play.** Follow curiosity with your pair.
+1. **Practice keyboard consent.** Never touch someone else's computer without their explicit permission.
+1. **Give [good feedback](#what-is-good-feedback)**. Feedback powers the engines of learning.
 
 OK, so we won't kick you out for not being playful. But you'll definitely have a lot more fun.
 
-## The Pairing Session
+## First Attempt
 
-A pairing session is two people working on the same problem together. You can think of it like group problem solving.
+The first stage is a solo session (i.e. you work on your own). There are three steps:
+
+1. Work on the challenge
+1. Submit your challenge attempt
+1. Reflect on your learning
+
+During this stage, you will attempt to solve the objectives in the [challenge](#challenge) on your own. After working on the challenge, submit your attempt (see the challenge for instructions) and reflect on your own learning by [logging feedback](#feedback-log).
+
+You won't have time to complete the whole challenge. The goal is simply to get as far as you can. In the next stage, you'll continue improving on your attempt.
+
+## Pair Learning
+
+During pair learning, you'll work with a peer on the same challenge. You can think of it like group problem solving.
+
+At the end of each pairing session, you'll give feedback to your pair.
 
 Stages of a pairing session:
 
 1. Check-in
-1. Designate a driver and navigator
-1. Practice the challenge
+1. Sync up
+1. Build together
 1. Log feedback
+1. Share feedback
 1. Wrap up
 
 ### 1. Check-in
 
 As soon as you sit down with your pair, start with a check-in.
 
-Say hi to your pair! Introduce yourself, and share whatever you want to share with them that will help you be present and ready to work together.
-
-If you're willing, now is a good time to also share which skills you are aiming to improve so that your pair can give you specific feedback. Help your pair help you.
+Say hi to your pair! Introduce yourself, and share which skills you are aiming to improve so that your pair can give you the most useful feedback. Help your pair help you.
 
 Give them time to do the same.
 
-### 2. Designate a driver and navigator
+### 2. Sync up
 
-With your pair, determine who will be _driving_ (using the keyboard to write code), and who will be _navigating_ (helping the driver think about the problem and come up with a solution).
+Since you and your pair are likely at different stages in the challenge, the first step is to sync up.
 
-You will switch roles halfway through the session, so you will get a chance to be both driver and navigator.
+Syncing up will mean different things depending on the relative states of each person.
 
-### 3. Practice the challenge
+If one person has completed more objectives than the other, the farther-along person should help their pair get caught up.
 
-Once you've designated a driver and navigator, you're ready to begin working on the challenge.
+This doesn't mean _solving the problem for them_, but rather guiding them and helping them to understand what they need to complete the objectives.
 
-Open the challenge provided and follow the instructions. Decide with your pair which objective you want to work on.
+If both you and your pair have completed the same objectives, sync up by comparing your code and sharing what you learned.
+
+### 3. Build together
+
+Once you've synced up, you're ready to build together. With your pair, attempt to solve the next objectives in the challenge.
 
 Get as far as you can in the time allotted, and don't worry about completing the _entire_ challenge. It is designed to be _challenging_, after all.
 
+At the end of this stage, follow the instructions in the challenge to **submit your code**.
+
+Related question: [How do I "build together"?](#how-do-i-build-together)
+
 ### 4. Log feedback
 
-After practice time is over, stop working on the challenge and take a few minutes to log feedback and submit your code. Follow the instructions in the challenge for how to submit your code.
+After practice time is over, stop working on the challenge and take a few minutes to log feedback for your pair.
 
-Each pair should log feedback on their own computer.
+Each pair should log feedback on their own computer using the [feedback log](#feedback-log).
 
-First, log feedback for _yourself_. Consider how you fared during that session, and submit a feedback log.
+The logged feedback is **confidential and anonymous**—the feedback you give them will be anonymized and bundled up with other feedback after you submit it.
 
-Second, log feedback for _your pair_. Consider their performance, and pay special attention to any skills that they specifically mentioned they wanted to improve.
+### 5. Share feedback
 
-The pair feedback is confidential—the feedback you give them will be anonymized and bundled up with other feedback after you submit it.
+After you log feedback in the computer, share some highlights with your pair verbally.
 
-**However**, it is highly recommended that you ask your pair to share some or all of their feedback for you verbally, especially on the skills you want to improve.
+When sharing feedback with your pair, make sure to give good feedback.
 
-_If you don't ask for verbal feedback from your pair, you will not know your feedback scores until after the game is over._
+Related question: [What is good feedback?](#what-is-good-feedback)
 
-#### Giving good feedback
+### 6. Wrap up
 
-If your pair asks you to share feedback, it is important to be kind and respectful when doing so. Here is a good formula to use when giving feedback:
+Congrats! You've finished a pair learning session. Hopefully you learned something, and are better equipped to tackle the challenge.
 
-- Share one thing they did well
-- Share one thing they can improve on
-- Offer a suggestion for how they can improve
+Thank your pair for working with you, shake hands or give them a high five (whichever you prefer), and move on to your next session!
 
-It is also important to give feedback on _behavior_, not _character_. Saying "One thing you did well is that you have nice hair." is not as useful/actionable as "One thing you did well was ask clarifying questions when you didn't fully understand what I said."
+## Re-Attempt
 
-### 5. Wrap up
+Welcome to the final stage! Like the first stage, the **Re-Attempt** is a solo session (i.e. you work on your own). There are four steps:
 
-Thank your pair for working with you, shake hands or give them a high five, and move on to your next pairing session!
+1. Restart the challenge (start over from the first objective)
+1. Complete as much as you can using your newfound skills
+1. Submit your challenge attempt
+1. Reflect on your learning
+
+This stage is meant to give you a clear sense of how much you've learned over the course of the Learnathon. Is the challenge easier than when you first attempted it? Are you able to get through more objectives more quickly?
+
+After working on the challenge, submit your attempt (see the challenge for instructions) and reflect on your own learning by [logging feedback](#feedback-log).
+
+## Game Over
+
+That's it! You've completed the Learnathon!
+
+Time to celebrate. Give yourself a high five. Do a little dance. Run a victory lap. Whatever. You decide.
 
 ---
 
 ## Resources
+
+### Challenge
+
+When you join the game, your facilitator will provide a link to the challenge used.
+
+In the meantime, you can work on the [example challenge][example-challenge-gist]. It's similar to what you will encounter during the actual game.
+
+### Feedback Log
+
+When you join the game, your facilitator will provide a link to the Feedback Log.
+
+It will cover similar information to the list of [essential skills](#essential-skills)
 
 ### Pre-Game Tutorials
 
@@ -156,6 +244,32 @@ _This is a list of the skills you will be working on, with explanatory "I can...
 | Problem Decomposition | I can take a large, difficult problem and break it down into smaller, more manageable parts.                              |
 | Logical Reasoning     | I can use basic logic to test and refine my understanding of a problem.                                                   |
 | Debugging             | I can identify an error, reproduce it, isolate it, and find a correct solution.                                           |
+
+---
+
+## Frequently Asked Questions
+
+#### How do I "build together"?
+
+If you've never worked on a coding problem with another person before, it can be a little awkward. That's ok! There's no one, right way to pair.
+
+That being said, here are some useful techniques that you can use to make pairing fun and effective:
+
+- Talk through the _procedure_ and _logic_ of your program with your pair before writing code.
+- Work separately for 5 minutes, then share and compare for 2 minutes.
+- Divide and conquer: split up the problem, each work on separate parts, and then share your solutions.
+
+Regardless of which techniques you use, at the very least you should rely on your pair for help and ask them for help when you get stuck. Be generous with your knowledge!
+
+#### What is good feedback?
+
+It is important to be kind and respectful when giving feedback. Here is a good formula to use when giving feedback:
+
+- Share one thing they did well
+- Share one thing they can improve on
+- Offer a suggestion for how they can improve
+
+It is also important to give feedback on _behavior_, not _character_. Saying "One thing you did well is that you have nice hair." is not as useful/actionable as "One thing you did well was ask clarifying questions when you didn't fully understand what I said."
 
 [example-challenge-gist]: https://gist.github.com/lg-bot/d3653ebe023f0f515644
 
