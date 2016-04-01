@@ -94,11 +94,11 @@ This is a _collaborative_ game, not a competitive game. You will do better if yo
 
 If you follow these rules, you will do well in the game. If you break these rules, you will be kicked out of the game.
 
-1. Be honest. A good learning environment requires truth.
-1. Be kind and respectful. Learning is a vulnerable act, so go easy on yourself and others.
-1. Be willing to play. Follow curiosity with your pair.
-1. Practice keyboard consent. Never touch someone else's computer without their explicit permission.
-1. Give good feedback. Use the [giving good feedback](#giving-good-feedback) suggestion if you aren't sure what good feedback looks like.
+1. **Be honest.** A good learning environment requires truth.
+1. **Be kind and respectful.** Learning is a vulnerable act, so go easy on yourself and others.
+1. **Be willing to play.** Follow curiosity with your pair.
+1. **Practice keyboard consent.** Never touch someone else's computer without their explicit permission.
+1. **Give [good feedback](#what-is-good-feedback)**. Feedback powers the engines of learning.
 
 OK, so we won't kick you out for not being playful. But you'll definitely have a lot more fun.
 
@@ -147,6 +147,8 @@ If one person has completed more objectives than the other, the farther-along pe
 
 This doesn't mean _solving the problem for them_, but rather guiding them and helping them to understand what they need to complete the objectives.
 
+If both you and your pair have completed the same objectives, sync up by comparing your code and sharing what you learned.
+
 ### 3. Build together
 
 Once you've synced up, you're ready to build together. With your pair, attempt to solve the next objectives in the challenge.
@@ -155,17 +157,7 @@ Get as far as you can in the time allotted, and don't worry about completing the
 
 At the end of this stage, follow the instructions in the challenge to **submit your code**.
 
-#### How do I "build together"?
-
-If you've never worked on a coding problem with another person before, it can be a little awkward. That's ok! There's no one, right way to pair.
-
-That being said, here are some useful techniques that you can use to make pairing fun and effective:
-
-- Talk through the _procedure_ and _logic_ of your program with your pair before writing code.
-- Work separately for 5 minutes, then share and compare for 2 minutes.
-- Divide and conquer: split up the problem, each work on separate parts, and then share your solutions.
-
-Regardless of which techniques you use, at the very least you should rely on your pair for help and ask them for help when you get stuck. Be generous with your knowledge!
+Related question: [How do I "build together"?](#how-do-i-build-together)
 
 ### 4. Log feedback
 
@@ -181,15 +173,7 @@ After you log feedback in the computer, share some highlights with your pair ver
 
 When sharing feedback with your pair, make sure to give good feedback.
 
-#### Giving good feedback
-
-It is important to be kind and respectful when giving feedback. Here is a good formula to use when giving feedback:
-
-- Share one thing they did well
-- Share one thing they can improve on
-- Offer a suggestion for how they can improve
-
-It is also important to give feedback on _behavior_, not _character_. Saying "One thing you did well is that you have nice hair." is not as useful/actionable as "One thing you did well was ask clarifying questions when you didn't fully understand what I said."
+Related question: [What is good feedback?](#what-is-good-feedback)
 
 ### 6. Wrap up
 
@@ -264,6 +248,28 @@ _This is a list of the skills you will be working on, with explanatory "I can...
 ---
 
 ## Frequently Asked Questions
+
+#### How do I "build together"?
+
+If you've never worked on a coding problem with another person before, it can be a little awkward. That's ok! There's no one, right way to pair.
+
+That being said, here are some useful techniques that you can use to make pairing fun and effective:
+
+- Talk through the _procedure_ and _logic_ of your program with your pair before writing code.
+- Work separately for 5 minutes, then share and compare for 2 minutes.
+- Divide and conquer: split up the problem, each work on separate parts, and then share your solutions.
+
+Regardless of which techniques you use, at the very least you should rely on your pair for help and ask them for help when you get stuck. Be generous with your knowledge!
+
+#### What is good feedback?
+
+It is important to be kind and respectful when giving feedback. Here is a good formula to use when giving feedback:
+
+- Share one thing they did well
+- Share one thing they can improve on
+- Offer a suggestion for how they can improve
+
+It is also important to give feedback on _behavior_, not _character_. Saying "One thing you did well is that you have nice hair." is not as useful/actionable as "One thing you did well was ask clarifying questions when you didn't fully understand what I said."
 
 [example-challenge-gist]: https://gist.github.com/lg-bot/d3653ebe023f0f515644
 
