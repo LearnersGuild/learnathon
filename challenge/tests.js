@@ -1,7 +1,15 @@
 var LETTERS_TEXT, GUESS_TEXT, MESSAGE_TEXT; // globals for tracking state
 
 function assert(message, testFunc) {
-  var result = testFunc()
+  var result;
+
+  try {
+    result = testFunc()
+  } catch (e) {
+    console.error(e);
+  } finally {
+    result = result || false;
+  }
 
   if (result) {
     console.log(message);
