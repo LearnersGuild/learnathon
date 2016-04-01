@@ -59,11 +59,27 @@ function runTests() {
     return before !== after;
   });
 
-  assert("there are at least 4 letters on the page after running updateLetters()", function() {
+  assert("updateLetters() adds at least 4 letters", function() {
     updateLetters();
     var letters = document.querySelector("#letters").innerText;
 
     return letters.length >= 4;
+  });
+
+  assert("randomLetters() is defined as a function", function() {
+    return (typeof randomLetters === "function");
+  });
+
+  assert("randomLetters() returns a string of 7 letters", function() {
+    return (randomLetters().length === 7);
+  });
+
+  assert("randomLetters() returns a different random string every time it is called", function() {
+    var first = randomLetters();
+    var second = randomLetters();
+    var third = randomLetters();
+
+    return (first !== second && second !== third && third !== first);
   });
 
   resetState();
