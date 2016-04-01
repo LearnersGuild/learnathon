@@ -70,6 +70,7 @@ If you follow these rules, you will do well in the game. If you break these rule
 1. Be honest. A good learning environment requires truth.
 1. Be kind and respectful. Learning is a vulnerable act, so go easy on yourself and others.
 1. Be willing to play. Follow curiosity with your pair.
+1. Practice keyboard consent. Never touch someone else's computer without their explicit permission.
 1. Give good feedback. Use the [giving good feedback](#giving-good-feedback) suggestion if you aren't sure what good feedback looks like.
 
 OK, so we won't kick you out for not being playful. But you'll definitely have a lot more fun.
@@ -88,61 +89,74 @@ You won't have time to complete the whole challenge. The goal is simply to get a
 
 ## Pair Learning
 
-A pairing session is two people working on the same problem together. You can think of it like group problem solving.
+During pair learning, you'll work with a peer on the same challenge. You can think of it like group problem solving.
 
-At the end of each pairing session, pairs give feedback to each other on a set of [essential skills](#essential-skills).
+At the end of each pairing session, you'll give feedback to your pair.
 
 Stages of a pairing session:
 
 1. Check-in
-1. Designate a driver and navigator
-1. Practice the challenge
+1. Sync up
+1. Build together
 1. Log feedback
+1. Share feedback
 1. Wrap up
 
 ### 1. Check-in
 
 As soon as you sit down with your pair, start with a check-in.
 
-Say hi to your pair! Introduce yourself, and share whatever you want to share with them that will help you be present and ready to work together.
-
-If you're willing, now is a good time to also share which skills you are aiming to improve so that your pair can give you specific feedback. Help your pair help you.
+Say hi to your pair! Introduce yourself, and share which skills you are aiming to improve so that your pair can give you the most useful feedback. Help your pair help you.
 
 Give them time to do the same.
 
-### 2. Designate a driver and navigator
+### 2. Sync up
 
-With your pair, determine who will be _driving_ (using the keyboard to write code), and who will be _navigating_ (helping the driver think about the problem and come up with a solution).
+Since you and your pair are likely at different stages in the challenge, the first step is to sync up.
 
-You will switch roles halfway through the session, so you will get a chance to be both driver and navigator.
+Syncing up will mean different things depending on the relative states of each person.
 
-### 3. Practice the challenge
+If one person has completed more objectives than the other, the farther-along person should help their pair get caught up.
 
-Once you've designated a driver and navigator, you're ready to begin working on the challenge.
+This doesn't mean _solving the problem for them_, but rather guiding them and helping them to understand what they need to complete the objectives.
 
-Open the challenge provided and follow the instructions. Decide with your pair which objective you want to work on.
+### 3. Build together
+
+Once you've synced up, you're ready to build together. With your pair, attempt to solve the next objectives in the challenge.
 
 Get as far as you can in the time allotted, and don't worry about completing the _entire_ challenge. It is designed to be _challenging_, after all.
 
+At the end of this stage, follow the instructions in the challenge to **submit your code**.
+
+#### How do I "build together"?
+
+If you've never worked on a coding problem with another person before, it can be a little awkward. That's ok! There's no one, right way to pair.
+
+That being said, here are some useful techniques that you can use to make pairing fun and effective:
+
+- Talk through the _procedure_ and _logic_ of your program with your pair before writing code.
+- Work separately for 5 minutes, then share and compare for 2 minutes.
+- Divide and conquer: split up the problem, each work on separate parts, and then share your solutions.
+
+Regardless of which techniques you use, at the very least you should rely on your pair for help and ask them for help when you get stuck. Be generous with your knowledge!
+
 ### 4. Log feedback
 
-After practice time is over, stop working on the challenge and take a few minutes to log feedback and submit your code. Follow the instructions in the challenge for how to submit your code.
+After practice time is over, stop working on the challenge and take a few minutes to log feedback for your pair.
 
-Each pair should log feedback on their own computer.
+Each pair should log feedback on their own computer using the [feedback log](#feedback-log).
 
-First, log feedback for _yourself_. Consider how you fared during that session, and submit a feedback log.
+The logged feedback is **confidential and anonymous**—the feedback you give them will be anonymized and bundled up with other feedback after you submit it.
 
-Second, log feedback for _your pair_. Consider their performance, and pay special attention to any skills that they specifically mentioned they wanted to improve.
+### 5. Share feedback
 
-The pair feedback is confidential—the feedback you give them will be anonymized and bundled up with other feedback after you submit it.
+After you log feedback in the computer, share some highlights with your pair verbally.
 
-**However**, it is highly recommended that you ask your pair to share some or all of their feedback for you verbally, especially on the skills you want to improve.
-
-_If you don't ask for verbal feedback from your pair, you will not know your feedback scores until after the game is over._
+When sharing feedback with your pair, make sure to give good feedback.
 
 #### Giving good feedback
 
-If your pair asks you to share feedback, it is important to be kind and respectful when doing so. Here is a good formula to use when giving feedback:
+It is important to be kind and respectful when giving feedback. Here is a good formula to use when giving feedback:
 
 - Share one thing they did well
 - Share one thing they can improve on
@@ -150,9 +164,11 @@ If your pair asks you to share feedback, it is important to be kind and respectf
 
 It is also important to give feedback on _behavior_, not _character_. Saying "One thing you did well is that you have nice hair." is not as useful/actionable as "One thing you did well was ask clarifying questions when you didn't fully understand what I said."
 
-### 5. Wrap up
+### 6. Wrap up
 
-Thank your pair for working with you, shake hands or give them a high five, and move on to your next pairing session!
+Congrats! You've finished a pair learning session. Hopefully you learned something, and are better equipped to tackle the challenge.
+
+Thank your pair for working with you, shake hands or give them a high five (whichever you prefer), and move on to your next session!
 
 ## Re-Attempt
 
