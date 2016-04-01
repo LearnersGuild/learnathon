@@ -105,6 +105,19 @@ Another common feature of word games is the "shuffle" button, which shuffles the
 Tasks:
 
 - Implement a "shuffle" feature for your game.
+- Write a JavaScript function called `shuffle()` that takes a string and returns a new string with the characters shuffled
+
+For example, the `shuffle()` function should work like this:
+
+```javascript
+shuffle("abcd"); // => "cbad"
+
+// so you could assign the results of this function like this:
+
+var originalString = "original";
+var shuffledString = shuffle(originalString);
+console.log(shuffledString); // prints "larinigo"
+```
 
 This objective is a bit harder. You'll have to figure out what it means to "shuffle" a set of characters in a string.
 
