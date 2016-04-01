@@ -82,5 +82,26 @@ function runTests() {
     return (first !== second && second !== third && third !== first);
   });
 
+  assert("shuffle() is defined as a function", function() {
+    return (typeof shuffle === "function");
+  });
+
+  assert("shuffle() shuffles a string of 7 characters", function() {
+    var testString = "SHUFFLE";
+    var shuffled = shuffle(testString);
+
+    return (shuffled.length === testString.length && shuffled !== testString)
+  });
+
+  assert("shuffle() returns the same set of letters", function() {
+    var testString = "SHUFFLE";
+    var shuffled = shuffle(testString);
+
+    var sortedTestString = testString.split('').sort().join();
+    var sortedShuffledString = shuffled.split('').sort().join();
+
+    return (sortedTestString === sortedShuffledString);
+  });
+
   resetState();
 }
