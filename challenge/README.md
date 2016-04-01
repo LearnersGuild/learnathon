@@ -112,7 +112,7 @@ For example, the `shuffle()` function should work like this:
 ```javascript
 shuffle("abcd"); // => "cbad"
 
-// so you could assign the results of this function like this:
+// so you could assign the return value of this function like this:
 
 var originalString = "original";
 var shuffledString = shuffle(originalString);
