@@ -66,10 +66,6 @@ function runTests() {
     return letters.length >= 4;
   });
 
-  assert("randomLetters() is defined as a function", function() {
-    return (typeof randomLetters === "function");
-  });
-
   assert("randomLetters() returns a string of 7 letters", function() {
     return (randomLetters().length === 7);
   });
@@ -80,10 +76,6 @@ function runTests() {
     var third = randomLetters();
 
     return (first !== second && second !== third && third !== first);
-  });
-
-  assert("shuffle() is defined as a function", function() {
-    return (typeof shuffle === "function");
   });
 
   assert("shuffle() shuffles a string of 7 characters", function() {
