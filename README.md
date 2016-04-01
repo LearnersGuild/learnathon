@@ -6,6 +6,33 @@ The Learnathon is a game to practice collective learning by working on a set cha
 
 **How much can _you_ learn?**
 
+_Contents_
+<!-- TOC depthFrom:2 depthTo:3 withLinks:1 updateOnSave:0 orderedList:0 -->
+
+- [Preparing to Play](#preparing-to-play)
+- [How to Play](#how-to-play)
+  - [Stages](#stages)
+  - [Winning the Game](#winning-the-game)
+  - [Rules](#rules)
+- [First Attempt](#first-attempt)
+- [Pair Learning](#pair-learning)
+  - [1. Check-in](#1-check-in)
+  - [2. Sync up](#2-sync-up)
+  - [3. Build together](#3-build-together)
+  - [4. Log feedback](#4-log-feedback)
+  - [5. Share feedback](#5-share-feedback)
+  - [6. Wrap up](#6-wrap-up)
+- [Re-Attempt](#re-attempt)
+- [Game Over](#game-over)
+- [Resources](#resources)
+  - [Challenge](#challenge)
+  - [Feedback Log](#feedback-log)
+  - [Pre-Game Tutorials](#pre-game-tutorials)
+  - [Essential Skills](#essential-skills)
+- [Frequently Asked Questions](#frequently-asked-questions)
+
+<!-- /TOC -->
+
 ## Preparing to Play
 
 Before you can start playing, you'll need two things:
@@ -77,7 +104,7 @@ OK, so we won't kick you out for not being playful. But you'll definitely have a
 
 ## First Attempt
 
-The first stage is a solo session (i.e. you work on your own). There are two steps:
+The first stage is a solo session (i.e. you work on your own). There are three steps:
 
 1. Work on the challenge
 1. Submit your challenge attempt
@@ -172,6 +199,23 @@ Thank your pair for working with you, shake hands or give them a high five (whic
 
 ## Re-Attempt
 
+Welcome to the final stage! Like the first stage, the **Re-Attempt** is a solo session (i.e. you work on your own). There are four steps:
+
+1. Restart the challenge (start over from the first objective)
+1. Complete as much as you can using your newfound skills
+1. Submit your challenge attempt
+1. Reflect on your learning
+
+This stage is meant to give you a clear sense of how much you've learned over the course of the Learnathon. Is the challenge easier than when you first attempted it? Are you able to get through more objectives more quickly?
+
+After working on the challenge, submit your attempt (see the challenge for instructions) and reflect on your own learning by [logging feedback](#feedback-log).
+
+## Game Over
+
+That's it! You've completed the Learnathon!
+
+Time to celebrate. Give yourself a high five. Do a little dance. Run a victory lap. Whatever. You decide.
+
 ---
 
 ## Resources
@@ -216,6 +260,10 @@ _This is a list of the skills you will be working on, with explanatory "I can...
 | Problem Decomposition | I can take a large, difficult problem and break it down into smaller, more manageable parts.                              |
 | Logical Reasoning     | I can use basic logic to test and refine my understanding of a problem.                                                   |
 | Debugging             | I can identify an error, reproduce it, isolate it, and find a correct solution.                                           |
+
+---
+
+## Frequently Asked Questions
 
 [example-challenge-gist]: https://gist.github.com/lg-bot/d3653ebe023f0f515644
 
