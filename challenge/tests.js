@@ -1,6 +1,7 @@
 var LETTERS_TEXT, GUESS_TEXT, MESSAGE_TEXT; // globals for tracking state
 
 function assert(message, testFunc) {
+  var originalState = new State();
   var result;
 
   try {
@@ -17,26 +18,24 @@ function assert(message, testFunc) {
     console.error("FAIL: " + message);
   }
 
-  resetState(); // reset to prior state after every test
+  originalState.reset(); // reset to prior state after every test
 
   return result;
 }
 
-function captureState() {
-  LETTERS_TEXT = document.querySelector('#letters').innerText;
-  GUESS_TEXT = document.querySelector('input#word-guess').value;
-  MESSAGE_TEXT = document.querySelector('#game-message').innerText;
-}
+function State() {
+  this.letters = document.querySelector('#letters').innerText;
+  this.guess = document.querySelector('input#word-guess').value;
+  this.message = document.querySelector('#game-message').innerText;
 
-function resetState() {
-  document.querySelector('#letters').innerText = LETTERS_TEXT;
-  document.querySelector('input#word-guess').value = GUESS_TEXT;
-  document.querySelector('#game-message').innerText = MESSAGE_TEXT;
+  this.reset = function() {
+    document.querySelector('#letters').innerText = this.letters;
+    document.querySelector('input#word-guess').value = this.guess;
+    document.querySelector('#game-message').innerText = this.message;
+  }
 }
 
 function runTests() {
-  captureState();
-
   assert("checkGuess() is defined as a function", function() {
     return (typeof checkGuess === "function");
   });
@@ -102,6 +101,4 @@ function runTests() {
 
     return (sortedTestString === sortedShuffledString);
   });
-
-  resetState();
 }
