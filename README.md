@@ -100,7 +100,7 @@ Therefore, if you want to do well at the game, focus on those things. Improve yo
 
 This is a _collaborative_ game, not a competitive game. You will do better if you focus on giving and receiving help with your peers.
 
-If you follow these rules, you will do well in the game. If you break these rules, you will be kicked out of the game.
+If you follow these rules, you will do well in the game.
 
 1. **Be honest.** A good learning environment requires truth.
 1. **Be kind and respectful.** Learning is a vulnerable act, so go easy on yourself and others.
@@ -277,7 +277,7 @@ It is important to be kind and respectful when giving feedback. Here is a good f
 - Share one thing they can improve on
 - Offer a suggestion for how they can improve
 
-It is also important to give feedback on _behavior_, not _character_. Saying "One thing you did well is that you have nice hair." is not as useful/actionable as "One thing you did well was ask clarifying questions when you didn't fully understand what I said."
+It is also important to give feedback on _behavior_, not _character_. Saying "What you did well is that you were nice." is not as useful/actionable as "One thing you did well was ask clarifying questions when you didn't fully understand what I said."
 
 [example-challenge-gist]: https://gist.github.com/lg-bot/d3653ebe023f0f515644
 
