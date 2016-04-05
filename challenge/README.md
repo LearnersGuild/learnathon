@@ -35,6 +35,8 @@ Of course, at the start most of these tests will be _failing_, because you haven
 
 Run your tests frequently! They're a great way to tell if you're on-track.
 
+_Note: these tests only test your JavaScript code, not your HTML + CSS. If the objective includes HTML + CSS components, you can't rely on the tests to tell you if you've completed the objective or not. For that, you'll have to read the objective itself._
+
 ## Submitting your Code
 
 When you are ready to submit your code, share the **link to your fork of the gist**. This link will look something like:
