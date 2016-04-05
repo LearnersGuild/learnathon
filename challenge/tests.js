@@ -10,6 +10,8 @@ function State() {
   }
 }
 
+var RESULTS = [];
+
 function assert(message, testFunc) {
   var originalState = new State();
   var result;
@@ -30,6 +32,7 @@ function assert(message, testFunc) {
 
   originalState.reset(); // reset to prior state after every test
 
+  RESULTS.push(result);
   return result;
 }
 
@@ -99,4 +102,9 @@ function runTests() {
 
     return (sortedTestString === sortedShuffledString);
   });
+
+  var passes = String(RESULTS.filter(function(r) { return r === true; }).length);
+  var fails = String(RESULTS.filter(function(r) { return r === false; }).length);
+
+  console.log(passes + " passing tests and " + fails + " failing tests.");
 }
