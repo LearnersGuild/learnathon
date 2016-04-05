@@ -25,6 +25,16 @@ Here's an example of what the basic version could look like:
 1. Open your fork in JS Bin (use the "Import Gist" feature of JS Bin, [here's how](https://jsbin.com/help/import-gists))
 1. Start working on the first objective
 
+## Running Tests
+
+This challenge comes with its own suite of tests, which means that you can see which objectives you've completed by running the tests.
+
+To run your tests, open the "Console" tab in JS Bin, and execute the function `runTests()`.
+
+Of course, at the start most of these tests will be _failing_, because you haven't written code to make them pass. As you complete the objectives, however, you should see more and more green (green = _passing_).
+
+Run your tests frequently! They're a great way to tell if you're on-track.
+
 ## Submitting your Code
 
 When you are ready to submit your code, share the **link to your fork of the gist**. This link will look something like:
