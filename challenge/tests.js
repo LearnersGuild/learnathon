@@ -7,7 +7,7 @@ function State() {
     document.querySelector('#letters').innerText = this.letters;
     document.querySelector('input#word-guess').value = this.guess;
     document.querySelector('#game-message').innerText = this.message;
-  }
+  };
 }
 
 var RESULTS = [];
@@ -36,75 +36,91 @@ function assert(message, testFunc) {
   return result;
 }
 
+function group(name, assertions) {
+  console.log('--- ' + name + ' ---');
+
+  assertions();
+}
+
 function runTests() {
-  assert("checkGuess() is defined as a function", function() {
-    return (typeof checkGuess === "function");
+  group("Objective 1 - checkGuess() logic", function() {
+    assert("checkGuess() is defined as a function", function() {
+      return (typeof checkGuess === "function");
+    });
+
+    assert("checkGuess() returns true for a valid guess", function() {
+      document.querySelector('#letters').innerText = "ABCD";
+      document.querySelector('input#word-guess').value = "BAD";
+
+      return (checkGuess() === true);
+    });
+
+    assert("checkGuess() returns false for an invalid guess", function() {
+      document.querySelector('#letters').innerText = "ABCD";
+      document.querySelector('input#word-guess').value = "BEAD";
+
+      return (checkGuess() === false);
+    });
   });
 
-  assert("checkGuess() returns true for a valid guess", function() {
-    document.querySelector('#letters').innerText = "ABCD";
-    document.querySelector('input#word-guess').value = "BAD";
+  group("Objective 2 - Change letters", function() {
+    assert("updateLetters() is defined as a function", function() {
+      return (typeof updateLetters === "function");
+    });
 
-    return (checkGuess() === true);
+    assert("updateLetters() changes the letters on the page", function() {
+      var before = document.querySelector("#letters").innerText;
+      updateLetters();
+      var after = document.querySelector("#letters").innerText;
+
+      return before !== after;
+    });
+
+    assert("updateLetters() adds at least 4 letters", function() {
+      updateLetters();
+      var letters = document.querySelector("#letters").innerText;
+
+      return letters.length >= 4;
+    });
   });
 
-  assert("checkGuess() returns false for an invalid guess", function() {
-    document.querySelector('#letters').innerText = "ABCD";
-    document.querySelector('input#word-guess').value = "BEAD";
+  group("Objective 3 - Randomly generate letters", function() {
+    assert("randomLetters() returns a string of 7 letters", function() {
+      return (randomLetters().length === 7);
+    });
 
-    return (checkGuess() === false);
+    assert("randomLetters() returns a different random string every time it is called", function() {
+      var first = randomLetters();
+      var second = randomLetters();
+      var third = randomLetters();
+
+      return (first !== second && second !== third && third !== first);
+    });
   });
 
-  assert("updateLetters() is defined as a function", function() {
-    return (typeof updateLetters === "function");
-  });
+  group("Objective 5 - Shuffle letters", function() {
+    assert("shuffle() shuffles a string of 7 characters", function() {
+      var testString = "SHUFFLE";
+      var shuffled = shuffle(testString);
 
-  assert("updateLetters() changes the letters on the page", function() {
-    var before = document.querySelector("#letters").innerText;
-    updateLetters();
-    var after = document.querySelector("#letters").innerText;
+      return (shuffled.length === testString.length && shuffled !== testString);
+    });
 
-    return before !== after;
-  });
+    assert("shuffle() returns the same set of letters", function() {
+      var testString = "SHUFFLE";
+      var shuffled = shuffle(testString);
 
-  assert("updateLetters() adds at least 4 letters", function() {
-    updateLetters();
-    var letters = document.querySelector("#letters").innerText;
+      var sortedTestString = testString.split('').sort().join();
+      var sortedShuffledString = shuffled.split('').sort().join();
 
-    return letters.length >= 4;
-  });
-
-  assert("randomLetters() returns a string of 7 letters", function() {
-    return (randomLetters().length === 7);
-  });
-
-  assert("randomLetters() returns a different random string every time it is called", function() {
-    var first = randomLetters();
-    var second = randomLetters();
-    var third = randomLetters();
-
-    return (first !== second && second !== third && third !== first);
-  });
-
-  assert("shuffle() shuffles a string of 7 characters", function() {
-    var testString = "SHUFFLE";
-    var shuffled = shuffle(testString);
-
-    return (shuffled.length === testString.length && shuffled !== testString);
-  });
-
-  assert("shuffle() returns the same set of letters", function() {
-    var testString = "SHUFFLE";
-    var shuffled = shuffle(testString);
-
-    var sortedTestString = testString.split('').sort().join();
-    var sortedShuffledString = shuffled.split('').sort().join();
-
-    return (sortedTestString === sortedShuffledString);
+      return (sortedTestString === sortedShuffledString);
+    });
   });
 
   var passes = String(RESULTS.filter(function(r) { return r === true; }).length);
   var fails = String(RESULTS.filter(function(r) { return r === false; }).length);
 
-  console.log(passes + " passing tests and " + fails + " failing tests.");
+  group("RESULTS", function() {
+    console.log(passes + " passing tests and " + fails + " failing tests.");
+  });
 }
