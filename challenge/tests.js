@@ -4,17 +4,17 @@ function assert(message, testFunc) {
   var result;
 
   try {
-    result = testFunc()
+    result = testFunc();
   } catch (e) {
-    console.error(e);
+    console.error("Error: " + e.message);
   } finally {
     result = result || false;
   }
 
   if (result) {
-    console.log(message);
+    console.log("PASS: " + message);
   } else {
-    console.error(message);
+    console.error("FAIL: " + message);
   }
 
   resetState(); // reset to prior state after every test
@@ -90,7 +90,7 @@ function runTests() {
     var testString = "SHUFFLE";
     var shuffled = shuffle(testString);
 
-    return (shuffled.length === testString.length && shuffled !== testString)
+    return (shuffled.length === testString.length && shuffled !== testString);
   });
 
   assert("shuffle() returns the same set of letters", function() {
