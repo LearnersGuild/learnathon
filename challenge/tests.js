@@ -1,4 +1,14 @@
-var LETTERS_TEXT, GUESS_TEXT, MESSAGE_TEXT; // globals for tracking state
+function State() {
+  this.letters = document.querySelector('#letters').innerText;
+  this.guess = document.querySelector('input#word-guess').value;
+  this.message = document.querySelector('#game-message').innerText;
+
+  this.reset = function() {
+    document.querySelector('#letters').innerText = this.letters;
+    document.querySelector('input#word-guess').value = this.guess;
+    document.querySelector('#game-message').innerText = this.message;
+  }
+}
 
 function assert(message, testFunc) {
   var originalState = new State();
@@ -21,18 +31,6 @@ function assert(message, testFunc) {
   originalState.reset(); // reset to prior state after every test
 
   return result;
-}
-
-function State() {
-  this.letters = document.querySelector('#letters').innerText;
-  this.guess = document.querySelector('input#word-guess').value;
-  this.message = document.querySelector('#game-message').innerText;
-
-  this.reset = function() {
-    document.querySelector('#letters').innerText = this.letters;
-    document.querySelector('input#word-guess').value = this.guess;
-    document.querySelector('#game-message').innerText = this.message;
-  }
 }
 
 function runTests() {
