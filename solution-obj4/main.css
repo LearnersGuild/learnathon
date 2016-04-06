@@ -1,0 +1,27 @@
+body {
+  text-align: center;
+  margin: 0 auto;
+  background-color: pink;
+  font-family: 'Helvetica', sans-serif;
+}
+
+input, button {
+  font-size: 2em;
+}
+
+.topmargin {
+  margin-top: 2em;
+}
+
+.big-mono {
+  font-family: monospace;
+  font-size: 5em;
+  background-color: white;
+  padding: 1em;
+  border: 1px grey solid;
+}
+
+.notice {
+  margin-top: 1em;
+  font-style: italic;
+}
