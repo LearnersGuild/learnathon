@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Make a Word</title>
+
+    <link rel="stylesheet" href="main.css" media="screen" charset="utf-8">
+  </head>
+  <body>
+    <div id="letters" class="big-mono">
+      OPMARGR
+    </div>
+
+    <section id="guess-area">
+      <input type="text" id="word-guess">
+
+      <button onclick="checkGuess()">Guess</button>
+
+      <div id="game-message" class="notice">
+        Enter your first guess!
+      </div>
+    </section>
+  </body>
+
+  <script type="text/javascript" src="script.js"></script>
+
+  <!-- For use in development only -->
+  <script type="text/javascript" src="tests.js"></script>
+
+  <!-- For use in production only -->
+  <!-- <script type="text/javascript" src="https://rawgit.com/lg-bot/343694d651adedd80dfd458f20869f57/raw/d0463b3a3b258bc42c671f6aa9ad81aea3c71c1f/tests.js"></script> -->
+
+</html>
