@@ -30,7 +30,7 @@ The Challenge Improvement score will not be available, because you haven't evalu
 
 To determine the Challenge Improvement score, you will need access to the Player's initial and final challenge submission (in the form of GitHub gists).
 
-Use the [challenge improvement rubric](TODO: link to rubric) to score the Player.
+Use the [challenge improvement rubric][challenge-improvement-rubric] to score the Player.
 
 ## Submitting Player Scorecards
 
@@ -39,3 +39,4 @@ Once you've gathered the appropriate data and evaluated a Player's challenge sub
 Do this once per Player per round. Make sure to include your email on this form so that you get credit for the evaluation.
 
 [scorecard]: https://www.surveymonkey.com/r/learnathon-scorecard
+[challenge-improvement-rubric]: https://www.surveymonkey.com/r/learnathon-improvement-calculator
