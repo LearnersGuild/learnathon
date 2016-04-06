@@ -32,6 +32,14 @@ To determine the Challenge Improvement score, you will need access to the Player
 
 Use the [challenge improvement rubric][challenge-improvement-rubric] to score the Player.
 
+Use any of the example challenge solutions to compare code against if you need a sense of what a _good_ solution looks like:
+
+- [Example Solution to Objective 1](./solutions/obj-1/)
+- [Example Solution to Objective 2](./solutions/obj-2/)
+- [Example Solution to Objective 3](./solutions/obj-3/)
+- [Example Solution to Objective 4](./solutions/obj-4/)
+- [Example Solution to Objective 5](./solutions/obj-5/)
+
 ## Submitting Player Scorecards
 
 Once you've gathered the appropriate data and evaluated a Player's challenge submission, you must submit a [Player Scorecard][scorecard].
