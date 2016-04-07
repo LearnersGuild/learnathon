@@ -43,6 +43,8 @@ function group(name, assertions) {
 }
 
 function runTests() {
+  RESULTS = []; // clear results
+
   group("Objective 1 - checkGuess() logic", function() {
     assert("checkGuess() is defined as a function", function() {
       return (typeof checkGuess === "function");
