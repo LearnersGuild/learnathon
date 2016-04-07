@@ -31,6 +31,7 @@ function showMessage(messageText) {
   messageElem.innerText = messageText;
 }
 
+// A function to check whether the guessed word is correct or not
 function checkGuess() {
   // Collect the text from the letters and the guess
   var letters = getLetters();
