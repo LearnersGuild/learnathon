@@ -55,6 +55,8 @@ You'll need to come up with the pairing schedule ahead of time. The only criteri
 
 Once the game has started, your focus shifts to ensuring that Players are able to play well.
 
+Use the [Facilitator Script](https://docs.google.com/document/d/1SOkeyhzGJZojNNIkfcojvJCh2Q1oDOZFWq4YNybILGg/edit#).
+
 #### Orient the Players
 
 First, you need to orient the Players and explain the game to them. Before they begin pairing, you should explain to them:
