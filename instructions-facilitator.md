@@ -2,7 +2,24 @@
 
 As a Facilitator for the Learnathon, your primary job is to ensure that all Players have the necessary materials and structure to participate fully.
 
+Your accountabilities are to:
+
+- Set up a game
+- Run a game, including:
+  - Orienting the players
+  - Keeping schedule on track
+  - Running coding & pairing sessions
+  - Leading a wrap-up
+- Perform post-game tasks
+
 This document will help you set up for a game, run it, and do post-game tasks.
+
+You should be familiar with the full structure of the game to best understand these instructions. At the very least, you should read:
+
+- The [README](./README.md)
+- The [Round 1 challenge](./challenge)
+- The list of [Essential Skills](./README.md#essential-skills)
+- The list of [materials](./materials.md) for the session
 
 For more background information about the game, read the [Enrollment Game Design document](https://docs.google.com/document/d/10_ZUYvicCy8nMCRwJG_FaR0EwRQbBKZdTw9u2CaeA_0/edit#).
 
@@ -14,7 +31,7 @@ To prepare for the game, make sure the following tasks are completed:
 
 - Computers for every player (preferably laptops)
 - A good internet connection for everyone
-- The [Learnathon instructions and rules](README.md)
+- The [Learnathon instructions and rules](./README.md)
 - A pairing schedule (see [this sample for an example](sample-pairing-schedule.md))
 - A Feedback Log (see [this example][feedback-form]) with pre-loaded Player info
 
@@ -38,18 +55,36 @@ You'll need to come up with the pairing schedule ahead of time. The only criteri
 
 Once the game has started, your focus shifts to ensuring that Players are able to play well.
 
+Use the [Facilitator Script](https://docs.google.com/document/d/1SOkeyhzGJZojNNIkfcojvJCh2Q1oDOZFWq4YNybILGg/edit#).
+
 #### Orient the Players
 
 First, you need to orient the Players and explain the game to them. Before they begin pairing, you should explain to them:
 
 - The schedule for the day
-- How pairing works
-- Who they are pairing with
-- How feedback works (share link to Feedback Log)
-- What good feedback looks like
+- The goals of the Learnathon - how to win
 - How to ask for help
 
 All of this information is available in the [README](./README.md) for Players to reference, but it is important for you to repeat it.
+
+#### Run First Challenge Attempt
+
+The first thing Players do is to make a solo attempt at the challenge.
+
+Make sure each player has a laptop, a link to the challenge, and a link to the feedback form.
+
+Make sure that all Players are well informed of the timeline.
+
+#### Orient for Pairing
+
+Before running pairing sessions, you need to orient the Players to feedback and to how pairing will work.
+
+Share with them:
+
+- How pairing works
+- Whom they are pairing with
+- How feedback works (share link to Feedback Log)
+- What good feedback looks like
 
 #### Run Pairing Sessions
 
@@ -64,20 +99,20 @@ This means:
 - Encouraging all Players to ask for verbal feedback from their pair (and reminding them to [give good feedback](./README.md#giving-good-feedback))
 - Giving Players time to switch pairs before the next session
 
-Here is a suggested 40-minute agenda for a pairing session:
+Here is a suggested 45-minute agenda for a pairing session:
 
-- Min 0: Start pairing session with theme prompt ("The pairing session has started! Check in with your pair and pick a driver and navigator. For this session, focus on <session theme>")
-- Min 18: Flip driver/navigator ("Ok, time to switch roles. Drivers become navigators, and navigators become drivers.")
+- Min 0: Start pairing session with theme prompt ("The pairing session has started! Check in with your pair. For this session, focus on <session theme>")
 - Min 25: 5-minute warning for feedback ("Feedback starts in 5 minutes, wrap up your practice.")
 - Min 30: Feedback time ("Time to give feedback! Stop working on the challenge, and log feedback using the feedback form.")
 - Min 35: 5-minute warning; verbal feedback reminder ("5 minutes until next session. Now's the time to get verbal feedback from your pair.")
 - Min 40: Have players find their next pair ("Everybody find the your next pair.")
+- Min 45: Start next session.
 
 ##### Session Themes
 
-Before each session, set a "theme" to direct Players' focus and attention.
+Before each session, you can choose to set a "theme" to direct Players' focus and attention.
 
-Use your best judgment to pick a theme that works best given the context of the room. For example, if you notice that lots of pairs are not talking to each other much, add a theme of "only use one computer" so that navigators are forced to work with drivers on the same computer.
+Use your best judgment to pick a theme that works best given the context of the room. For example, if you notice that lots of pairs are not talking to each other much, add a theme of "only use one computer" so that they are forced to work more closely together.
 
 Here is a suggested progression of themes:
 
@@ -86,6 +121,12 @@ Here is a suggested progression of themes:
 1. Focus on procedure: optimize the logic behind any solution before writing any code.
 1. Focus on collaboration: pairs optimize for equal contribution.
 1. Focus on persistence: get through as many objectives as possible.
+
+#### Run Final Challenge Attempt
+
+The last thing Players do is to make a final solo attempt at the challenge.
+
+Make sure that all Players are well informed of the timeline.
 
 #### Wrap Up
 

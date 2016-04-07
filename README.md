@@ -79,7 +79,7 @@ Finally, in the **Re-Attempt** stage, you'll work on your own on the same challe
 
 ### Winning the Game
 
-There is no single winner of the game. After the game is over, Learners Guild will review the data collected and determine who to invite to Round 2 of Enrollment.
+There is no single winner of the game. After the game is over, Learners Guild will review the data collected and determine whom to invite to Round 2 of Enrollment.
 
 We look at the following metrics:
 

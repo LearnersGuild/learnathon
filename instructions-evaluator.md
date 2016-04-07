@@ -13,7 +13,7 @@ This document will help you understand how to fulfill your accountabilities well
 You should be familiar with the full structure of the game to best understand these instructions. At the very least, you should read:
 
 - The [README](./README.md)
-- The Round 1 challenge (find link in [README](./README.md))
+- The [Round 1 challenge](./challenge)
 - The list of [Essential Skills](./README.md#essential-skills)
 
 For more background information about the game, read the [Enrollment Game Design document](https://docs.google.com/document/d/10_ZUYvicCy8nMCRwJG_FaR0EwRQbBKZdTw9u2CaeA_0/edit#).
