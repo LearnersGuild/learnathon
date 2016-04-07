@@ -60,13 +60,29 @@ Once the game has started, your focus shifts to ensuring that Players are able t
 First, you need to orient the Players and explain the game to them. Before they begin pairing, you should explain to them:
 
 - The schedule for the day
+- The goals of the Learnathon - how to win
+- How to ask for help
+
+All of this information is available in the [README](./README.md) for Players to reference, but it is important for you to repeat it.
+
+#### Run First Challenge Attempt
+
+The first thing Players do is to make a solo attempt at the challenge.
+
+Make sure each player has a laptop, a link to the challenge, and a link to the feedback form.
+
+Make sure that all Players are well informed of the timeline.
+
+#### Orient for Pairing
+
+Before running pairing sessions, you need to orient the Players to feedback and to how pairing will work.
+
+Share with them:
+
 - How pairing works
 - Whom they are pairing with
 - How feedback works (share link to Feedback Log)
 - What good feedback looks like
-- How to ask for help
-
-All of this information is available in the [README](./README.md) for Players to reference, but it is important for you to repeat it.
 
 #### Run Pairing Sessions
 
@@ -103,6 +119,12 @@ Here is a suggested progression of themes:
 1. Focus on procedure: optimize the logic behind any solution before writing any code.
 1. Focus on collaboration: pairs optimize for equal contribution.
 1. Focus on persistence: get through as many objectives as possible.
+
+#### Run Final Challenge Attempt
+
+The last thing Players do is to make a final solo attempt at the challenge.
+
+Make sure that all Players are well informed of the timeline.
 
 #### Wrap Up
 
