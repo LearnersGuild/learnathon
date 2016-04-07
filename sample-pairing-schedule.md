@@ -13,37 +13,31 @@ _This is a sample pairing schedule for one instance of the Learnathon._
 - Garth
 - Hattie
 
-##### Session 1
+##### First Attempt: Solo
+
+Each player works on their own.
+
+##### Pair Learning: Session 1
 
 - Adam : Emily
 - Betty : Frank
 - Carl : Garth
 - Dot : Hattie
 
-##### Session 2
+##### Pair Learning: Session 2
 
 - Adam : Frank
 - Betty : Garth
 - Carl : Hattie
 - Dot : Emily
 
-##### Session 3
+##### Pair Learning: Session 3
 
 - Adam : Garth
 - Betty : Hattie
 - Carl : Emily
 - Dot : Frank
 
-##### Session 4
+##### Re-Attempt: Solo
 
-- Adam : Hattie
-- Betty : Emily
-- Carl : Frank
-- Dot : Garth
-
-##### Session 5
-
-- Adam : Betty
-- Frank : Garth
-- Carl : Dot
-- Hattie : Emily
+Each player works on their own.
