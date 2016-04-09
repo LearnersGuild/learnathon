@@ -1,0 +1,21 @@
+{
+  "name": "learnathon",
+  "homepage": "https://learnathon.learnersguild.org",
+  "authors": [
+    "Tanner Welsh <tanner@learnersguild.org>"
+  ],
+  "description": "Basic gh-pages site for the Learners Guild Learnathon",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "pure": "^0.6.0"
+  }
+}
