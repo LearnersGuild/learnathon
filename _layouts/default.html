@@ -8,16 +8,31 @@
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
-    <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+    <!-- <link rel="stylesheet" href="{{ '/css/main.css' | prepend: site.baseurl }}"> -->
+    <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">
+
+    <!--[if lte IE 8]>
+      <link rel="stylesheet" href="{{ '/css/side-menu-old-ie.css' | prepend: site.baseurl }}">
+    <![endif]-->
+    <!--[if gt IE 8]><!-->
+      <link rel="stylesheet" href="{{ '/css/side-menu.css' | prepend: site.baseurl }}">
+    <!--<![endif]-->
+
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   </head>
   <body>
 
-    <div class="page-content">
-      <div class="wrapper">
+    <div id="layout">
+
+      {% include menu.html %}
+
+      <div id="main">
         {{ content }}
       </div>
+
     </div>
 
   </body>
+
+  <script type="text/javascript" src="{{ '/js/ui.js' | prepend: site.baseurl }}"></script>
 </html>
