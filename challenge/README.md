@@ -154,7 +154,7 @@ Some ideas:
 
 This objective is intentionally open-ended. There are no tests (unless you want to write some of your own ;). Have fun with it!
 
-[getting-started-video]: ADD LINK
-[running-tests-video]: ADD LINK
-[submitting-code-video]: ADD LINK
-[objective-one-video]: ADD LINK
+[getting-started-video]: https://shereef.wistia.com/medias/ax4r5jfx38
+[running-tests-video]: https://shereef.wistia.com/medias/mj5xk19x73
+[objective-one-video]: https://shereef.wistia.com/medias/5vdc59rxj9
+[submitting-code-video]: https://shereef.wistia.com/medias/2qcpmcokum
