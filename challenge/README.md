@@ -25,6 +25,8 @@ Here's an example of what the basic version could look like:
 1. Open your fork in JS Bin (use the "Import Gist" feature of JS Bin, [here's how](https://jsbin.com/help/import-gists))
 1. Start working on the first objective
 
+If this is unclear, watch the [Getting Started video][getting-started-video] to see how it's done.
+
 ## Running Tests
 
 This challenge comes with its own suite of tests, which means that you can see which objectives you've completed by running the tests.
@@ -34,6 +36,8 @@ To run your tests, open the "Console" tab in JS Bin, and execute the function `r
 Of course, at the start most of these tests will be _failing_, because you haven't written code to make them pass. As you complete the objectives, however, you should see more and more green (green = _passing_).
 
 Run your tests frequently! They're a great way to tell if you're on-track.
+
+If this is unclear, watch the [Running Tests video][running-tests-video] to see how it's done.
 
 _Note: these tests only test your JavaScript code, not your HTML + CSS. If the objective includes HTML + CSS components, you can't rely on the tests to tell you if you've completed the objective or not. For that, you'll have to read the objective itself._
 
@@ -46,6 +50,8 @@ https://gist.github.com/your-github-username/lettersandnubmers8123u12
 ```
 
 Make sure you update your gist with the latest version of your code! You'll need to edit the files in the gist and copy over your code from JS Bin.
+
+The [Submitting Code video][submitting-code-video] demonstrates this process.
 
 ## Challenge Objectives
 
@@ -62,13 +68,14 @@ Tasks:
 - Write the body code of the `checkGuess()` function so that it satisfies its description (provided in a comment just above the function declaration).
 - Make sure that `checkGuess()` notifies the user of correct and incorrect guesses.
 
-**GOOD NEWS!** This step has already been completed for you. The developer who solved it even recorded [this video for you to watch](TODO: need link) so you can get up-to-speed.
+**GOOD NEWS!** This step has already been completed for you. The developer who solved it even recorded [this video for you to watch][objective-one-video] so you can get up-to-speed.
 
 As you watch the video, note things like:
 
-- How they go about learning about the existing code
-- What steps they go through to solve the problem
-- How they debug their code
+- Which steps they go through to solve the problem
+- How they use pseudocode to guide their development process
+- How they use the console and the tests to verify their code
+- Any additional work they do beyond the tests
 
 ### 2: Change the Letters from JavaScript
 
@@ -146,3 +153,8 @@ Some ideas:
 - Assign number values to letters (like in Scrabble) and calculate a player's score using them.
 
 This objective is intentionally open-ended. There are no tests (unless you want to write some of your own ;). Have fun with it!
+
+[getting-started-video]: ADD LINK
+[running-tests-video]: ADD LINK
+[submitting-code-video]: ADD LINK
+[objective-one-video]: ADD LINK
