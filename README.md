@@ -1,5 +1,3 @@
-# Learnathon
-
 Welcome to the Learners Guild Learnathon!
 
 The Learnathon is a game to practice collective learning by working on a set challenge over the course of multiple sessions.
