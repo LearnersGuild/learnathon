@@ -6,33 +6,6 @@ The Learnathon is a game to practice collective learning by working on a set cha
 
 **How much can _you_ learn?**
 
-_Contents_
-<!-- TOC depthFrom:2 depthTo:3 withLinks:1 updateOnSave:0 orderedList:0 -->
-
-- [Pre-Game Requirements](#pre-game-requirements)
-- [How to Play](#how-to-play)
-  - [Stages](#stages)
-  - [Winning the Game](#winning-the-game)
-  - [Rules](#rules)
-- [First Attempt](#first-attempt)
-- [Pair Learning](#pair-learning)
-  - [1. Check-in](#1-check-in)
-  - [2. Sync up](#2-sync-up)
-  - [3. Build together](#3-build-together)
-  - [4. Log feedback](#4-log-feedback)
-  - [5. Share feedback](#5-share-feedback)
-  - [6. Wrap up](#6-wrap-up)
-- [Re-Attempt](#re-attempt)
-- [Game Over](#game-over)
-- [Resources](#resources)
-  - [Challenge](#challenge)
-  - [Feedback Log](#feedback-log)
-  - [Pre-Game Tutorials](#pre-game-tutorials)
-  - [Essential Skills](#essential-skills)
-- [Frequently Asked Questions](#frequently-asked-questions)
-
-<!-- /TOC -->
-
 ---
 
 ## Pre-Game Requirements

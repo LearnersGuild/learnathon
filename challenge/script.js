@@ -31,29 +31,32 @@ function showMessage(messageText) {
   messageElem.innerText = messageText;
 }
 
+// A function to check whether the guessed word is correct or not
 function checkGuess() {
   // Collect the text from the letters and the guess
   var letters = getLetters();
-  var guess   = getGuess();
+  var guess = getGuess();
 
-  // Convert the guess to all UPPER CASE (to better compare to the letters)
+  // Convert both to uppercase so we can compare equals
   guess = guess.toUpperCase();
+  letters = letters.toUpperCase();
 
-  // Determine if all the letters in the guess are in the letters
+  // Determine if all the characters in the guess are in the letters
   for (var i = 0; i < guess.length; i++) {
-    var letterFromGuess = guess[i];
+    var currentChar = guess[i];
 
-    if (letters.indexOf(letterFromGuess) == -1) {
-      // If the letterFromGuess can't be found in 'letters', the game is over
-      showMessage("Sorry, not a valid word.");
-
-      // Return to exit the function
+    // If the current character can't be found in letters, the guess is incorrect
+    if (letters.indexOf(currentChar) === -1) {
+      // Show a message saying guess is incorrect
+      showMessage("Wrong guess, try again.");
+      // Return false to exit the function
       return false;
     }
   }
 
-  // If we've made it this far, then the word must be true!
-  showMessage("Yes, that is a valid word!");
-
+  // If we've made it this far, then the guess must be correct!
+  // Show a message saying guess is correct
+  showMessage("Good guess, that is correct!");
+  // Return true to exit the function
   return true;
 }
