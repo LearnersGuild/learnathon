@@ -164,7 +164,7 @@ Thank your pair for working with you, shake hands or give them a high five (whic
 
 Welcome to the final stage! Like the first stage, the **Re-Attempt** is a solo session (i.e. you work on your own). There are four steps:
 
-1. Restart the challenge (start over from the first objective)
+1. Restart the challenge (create a new, empty gist and start over from the first objective)
 1. Complete as much as you can using your newfound skills
 1. Submit your challenge attempt
 1. Reflect on your learning
