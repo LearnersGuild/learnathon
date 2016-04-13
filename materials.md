@@ -1,6 +1,6 @@
 # Materials
 
-_Key materials for the game_
+_Key materials for the Learnathon_
 
 - Feedback Log: https://www.surveymonkey.com/r/learnathon-feedback-log
 - Challenge: https://gist.github.com/lg-bot/f306837bb0fd958ef5de
