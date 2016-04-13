@@ -4,28 +4,28 @@ As a Facilitator for the Learnathon, your primary job is to ensure that all Play
 
 Your accountabilities are to:
 
-- Set up a game
-- Run a game, including:
+- Set up a Learnathon
+- Run a Learnathon, including:
   - Orienting the players
   - Keeping schedule on track
   - Running coding & pairing sessions
   - Leading a wrap-up
-- Perform post-game tasks
+- Perform post-Learnathon tasks
 
-This document will help you set up for a game, run it, and do post-game tasks.
+This document will help you set up for a Learnathon, run it, and do post-Learnathon tasks.
 
-You should be familiar with the full structure of the game to best understand these instructions. At the very least, you should read:
+You should be familiar with the full structure of the Learnathon to best understand these instructions. At the very least, you should read:
 
-- The [README](./README.md)
+- The [README](./README.md)Learnathon
 - The [Round 1 challenge](./challenge)
 - The list of [Essential Skills](./README.md#essential-skills)
 - The list of [materials](./materials.md) for the session
 
-For more background information about the game, read the [Enrollment Game Design document](https://docs.google.com/document/d/10_ZUYvicCy8nMCRwJG_FaR0EwRQbBKZdTw9u2CaeA_0/edit#).
+For more background information about the Learnathon, read the [Enrollment Game Design document](https://docs.google.com/document/d/10_ZUYvicCy8nMCRwJG_FaR0EwRQbBKZdTw9u2CaeA_0/edit#).
 
-## Setting Up a Game
+## Setting Up a Learnathon
 
-To prepare for the game, make sure the following tasks are completed:
+To prepare for the Learnathon, make sure the following tasks are completed:
 
 #### Get the Materials
 
@@ -41,25 +41,25 @@ Create a new Feedback Log from [the template][feedback-form] to use for this spe
 
 The Feedback Log includes a drop-down menu for Players' GitHub usernames.
 
-You'll need to pre-populate this list using the Players' information, so make sure that all Players provide their GitHub username when registering for the game.
+You'll need to pre-populate this list using the Players' information, so make sure that all Players provide their GitHub username when registering for the Learnathon.
 
 Players will need access to this feedback log, so if you want to mail it to them or make a short URL (using bit.ly, for example) for easy sharing, go ahead.
 
 #### Create a Pairing Schedule
 
-In a 4-hour game, there is time for 5 40-minute pairing sessions.
+In a 4-hour Learnathon, there is time for 5 40-minute pairing sessions.
 
 You'll need to come up with the pairing schedule ahead of time. The only criteria is to ensure that every Player pairs with as many other Players as possible. In other words, try to ensure that the same pair doesn't occur twice.
 
-## Running a Game
+## Running a Learnathon
 
-Once the game has started, your focus shifts to ensuring that Players are able to play well.
+Once the Learnathon has started, your focus shifts to ensuring that Players are able to play well.
 
 Use the [Facilitator Script](https://docs.google.com/document/d/1SOkeyhzGJZojNNIkfcojvJCh2Q1oDOZFWq4YNybILGg/edit#).
 
 #### Orient the Players
 
-First, you need to orient the Players and explain the game to them. Before they begin pairing, you should explain to them:
+First, you need to orient the Players and explain the Learnathon to them. Before they begin pairing, you should explain to them:
 
 - The schedule for the day
 - The goals of the Learnathon - how to win
@@ -141,9 +141,9 @@ At the end of the day, bring all the Players back together to:
 - Congratulate them on completing Round 1
   - Make this exciting, festive - want to end on a high note
 
-## Post-Game
+## Post-Learnathon
 
-After the game is over, Players need to be evaluated to determine whom will be invited to Round 2.
+After the Learnathon is over, Players need to be evaluated to determine whom will be invited to Round 2.
 
 #### Send the Exit Survey
 
