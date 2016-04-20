@@ -16,21 +16,20 @@ Before you can start the Enrollment Game, you'll need three things:
 2. Basic knowledge of HTML, CSS, and JavaScript
 3. A desire to learn
 
-It is _strongly recommended_ that you also:
+It is _strongly recommended_ that you also do the [Example Challenge][example-challenge-gist].
 
-- Complete the [Prep Tutorials](#prep-tutorials)
-- Go through the [Example Challenge][example-challenge-gist]
+If you're fuzzy on HTML/CSS and JavaScript, we recommend that you complete the [Prep Tutorials](#prep-tutorials).
 
 ## How to Engage
 
-**Your goal** is to complete the challenge as best you can, and to learn as much from your peers so that you can improve your skills over the course of the Enrollment Game. The more you are able to improve, the better your overall score.
+**Your goal** is to complete the challenge as best you can, and to collaborate with your team to learn and improve together. The more you improve your challenge and help your team, the better your overall score.
 
 You need these materials:
 
 1. A [challenge](#challenge) (coding problem to work on)
 1. A [feedback log](#feedback-log) (place to record feedback)
 
-Your facilitator will provide you with a link to a **feedback log** as well as to your **challenge**.
+Your facilitator will provide you with a link to both.
 
 Once you have these materials, you are ready to start Stage 1 (see below).
 
