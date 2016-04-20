@@ -40,23 +40,23 @@ _Note: this [example challenge][example-challenge-gist] is similar to what you w
 There are 3 stages:
 
 1. [First Attempt](#first-attempt)
-2. [Pair Learning](#pair-learning)
-3. [Re-Attempt](#re-attempt)
+2. [Team Learning](#team-learning)
+3. [Final Attempt](#final-attempt)
 
-In the **First Attempt**, you'll attempt to solve a coding challenge on your own. You probably won't finish it, but that's OK—you're not supposed to finish it.
+In the **First Attempt**, you'll attempt to solve a coding challenge on your own. You probably won't finish it, but that's OK—you're not supposed to finish it in this stage.
 
-During the **Pair Learning** stage, you'll work with other learners on the same challenge in a series of pairing sessions. This is an opportunity to share skills and knowledge, and to get valuable feedback from your pair.
+During the **Team Learning** stage, you'll work with a team of other learners on the same challenge. This is an opportunity to share skills and knowledge with your team, and to collectively come up with interesting approaches and solutions.
 
-Finally, in the **Re-Attempt** stage, you'll work on your own on the same challenge. This time, you'll start _from scratch_ to see how much further you can get than in the First Attempt.
+Finally, in the **Final Attempt** stage, you'll work on your own on the same challenge. This time, you'll start _from scratch_ to see how much further you can get than in the First Attempt.
 
 ### Selection for Enrollment
 
-There is no single winner of the Enrollment Game. After the Enrollment Game is over, Learners Guild will review the data collected and determine whom to invite to Round 2 of Enrollment.
+There is no single winner of the Enrollment Game. After collecting the data from all of our Enrollment Games, Learners Guild will review the outcomes and select whom to invite to our upcoming cohorts.
 
 We look at the following metrics:
 
-1. How much you can learn (by creating a great challenge solution)
-1. How much you can help others learn (by being a great pair)
+1. How much you can learn
+1. How well you work in a team
 
 #### How to _Really_ Do Well
 
@@ -66,7 +66,7 @@ How well do we nurture a collective learning environment? Is the work fun? Do yo
 
 If you treat the Enrollment Game as a opportunity to indulge in curiosity with other motivated learners, we believe you'll have a great time.
 
-Therefore, if you want to do well, focus on those things. Improve your skills by requesting and integrating feedback. Give kind, actionable, and specific feedback to others. And collaborate with your pair to produce the best work you can.
+Therefore, if you want to do well, focus on those things. Improve your skills by asking questions and exploring possible answers with your team. Share your knowledge and support your team.
 
 ### Rules
 
@@ -75,7 +75,8 @@ This is a _collaborative_ activity, not a competitive one. You will do better if
 If you follow these rules, you will do well.
 
 1. **Be honest.** A good learning environment requires truth.
-1. **Be kind and respectful.** Learning is a vulnerable act, so go easy on yourself and others.
+1. **Be kind.** Learning is a vulnerable act, so go easy on yourself and others.
+1. **Be respectful.** This should be obvious. Don't be a jerk.
 1. **Be willing to play.** Follow curiosity with your pair.
 1. **Practice keyboard consent.** Never touch someone else's computer without their explicit permission.
 1. **Give [good feedback](#what-is-good-feedback)**. Feedback powers the engines of learning.
@@ -94,7 +95,7 @@ During this stage, you will attempt to solve the objectives in the [challenge](#
 
 You won't have time to complete the whole challenge. The goal is simply to get as far as you can. In the next stage, you'll continue improving on your attempt.
 
-## Pair Learning
+## Team Learning
 
 During pair learning, you'll work with a peer on the same challenge. You can think of it like group problem solving.
 
@@ -161,9 +162,9 @@ Congrats! You've finished a pair learning session. Hopefully you learned somethi
 
 Thank your pair for working with you, shake hands or give them a high five (whichever you prefer), and move on to your next session!
 
-## Re-Attempt
+## Final Attempt
 
-Welcome to the final stage! Like the first stage, the **Re-Attempt** is a solo session (i.e. you work on your own). There are four steps:
+Welcome to the final stage! Like the first stage, the **Final Attempt** is a solo session (i.e. you work on your own). There are four steps:
 
 1. Restart the challenge (create a new, empty gist and start over from the first objective)
 1. Complete as much as you can using your newfound skills
