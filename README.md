@@ -85,13 +85,9 @@ OK, so we won't kick you out for not being playful. But you'll definitely have a
 
 ## First Attempt
 
-The first stage is a solo session (i.e. you work on your own). There are three steps:
+The first stage is a solo session (i.e. you work on your own).
 
-1. Work on the challenge
-1. Submit your challenge attempt
-1. Reflect on your learning
-
-During this stage, you will attempt to solve the objectives in the [challenge](#challenge) on your own. After working on the challenge, submit your attempt (see the challenge for instructions) and reflect on your own learning by [logging feedback](#feedback-log).
+During this stage, you will attempt to solve the objectives in the [challenge](#challenge) on your own. After working on the challenge, save your gist and submit your solution with the [submission form](#submission-form)
 
 You won't have time to complete the whole challenge. The goal is simply to get as far as you can. In the next stage, you'll continue improving on your attempt.
 
@@ -190,6 +186,10 @@ Time to celebrate. Give yourself a high five. Do a little dance. Run a victory l
 When you start the Enrollment Game, your facilitator will provide a link to the challenge used.
 
 In the meantime, you can work on the [example challenge][example-challenge-gist]. It's similar to what you will encounter during the actual Enrollment Game.
+
+### Submission Form
+
+After each attempt, submit your challenge using the Submission Form: [https://www.surveymonkey.com/r/learnathon-submission](https://www.surveymonkey.com/r/learnathon-submission).
 
 ### Feedback Log
 
