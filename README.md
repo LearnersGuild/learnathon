@@ -162,14 +162,16 @@ Thank your pair for working with you, shake hands or give them a high five (whic
 
 Welcome to the final stage! Like the first stage, the **Final Attempt** is a solo session (i.e. you work on your own). There are four steps:
 
-1. Restart the challenge (create a new, empty gist and start over from the first objective)
+1. Restart the challenge: create a new, empty gist (or delete your code) and start over from the first objective
 1. Complete as much as you can using your newfound skills
-1. Submit your challenge attempt
-1. Reflect on your learning
+1. Submit your challenge attempt using the [submission form](#submission-form)
+1. Reflect on your learning using the [feedback log](#feedback-log)
 
-This stage is meant to give you a clear sense of how much you've learned over the course of the Enrollment Game. Is the challenge easier than when you first attempted it? Are you able to get through more objectives more quickly?
+This stage is the real deal! How much have you learned with your team? How much more skilled are you after a day of collective learning?
 
-After working on the challenge, submit your attempt (see the challenge for instructions) and reflect on your own learning by [logging feedback](#feedback-log).
+It is meant to give you a sense of how much you've learned over the course of the Enrollment Game. Is the challenge easier than when you first attempted it? Are you able to get through more objectives more quickly?
+
+After working on the challenge, [submit your attempt](#submission-form) and reflect on your own learning by [logging feedback](#feedback-log).
 
 ## Fin
 
