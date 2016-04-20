@@ -1,8 +1,8 @@
-# Learnathon
+# Enrollment Game
 
-Welcome to the Learners Guild Learnathon!
+Welcome to the Learners Guild Enrollment Game!
 
-The Learnathon is a chance to practice collective learning by working on a set challenge over the course of multiple sessions.
+The Enrollment Game is a chance to practice collective learning by working on a set challenge over the course of multiple sessions.
 
 **How much can _you_ learn?**
 
@@ -10,7 +10,7 @@ The Learnathon is a chance to practice collective learning by working on a set c
 
 ## Pre-Requirements
 
-Before you can start the Learnathon, you'll need three things:
+Before you can start the Enrollment Game, you'll need three things:
 
 1. A [GitHub account](https://github.com/join)
 2. Basic knowledge of HTML, CSS, and JavaScript
@@ -23,7 +23,7 @@ It is _strongly recommended_ that you also:
 
 ## How to Engage
 
-**Your goal** is to complete the challenge as best you can, and to learn as much from your peers so that you can improve your skills over the course of the Learnathon. The more you are able to improve, the better your overall score.
+**Your goal** is to complete the challenge as best you can, and to learn as much from your peers so that you can improve your skills over the course of the Enrollment Game. The more you are able to improve, the better your overall score.
 
 You need these materials:
 
@@ -34,7 +34,7 @@ Your facilitator will provide you with a link to a **feedback log** as well as t
 
 Once you have these materials, you are ready to start Stage 1 (see below).
 
-_Note: this [example challenge][example-challenge-gist] is similar to what you will encounter during the actual Learnathon. We highly recommend trying your hand at it before attending. Make sure to read the instructions thoroughly._
+_Note: this [example challenge][example-challenge-gist] is similar to what you will encounter during the actual Enrollment Game. We highly recommend trying your hand at it before attending. Make sure to read the instructions thoroughly._
 
 ### Stages
 
@@ -52,7 +52,7 @@ Finally, in the **Re-Attempt** stage, you'll work on your own on the same challe
 
 ### Selection for Enrollment
 
-There is no single winner of the Learnathon. After the Learnathon is over, Learners Guild will review the data collected and determine whom to invite to Round 2 of Enrollment.
+There is no single winner of the Enrollment Game. After the Enrollment Game is over, Learners Guild will review the data collected and determine whom to invite to Round 2 of Enrollment.
 
 We look at the following metrics:
 
@@ -61,11 +61,11 @@ We look at the following metrics:
 
 #### How to _Really_ Do Well
 
-_All that being said_, the Learnathon works best if you consider it as an opportunity for rich, fun learning. It is as much for _you_ to evaluate _us_.
+_All that being said_, the Enrollment Game works best if you consider it as an opportunity for rich, fun learning. It is as much for _you_ to evaluate _us_.
 
 How well do we nurture a collective learning environment? Is the work fun? Do you get to learn? Consider these and other questions as you go through the day.
 
-If you treat the Learnathon as a opportunity to indulge in curiosity with other motivated learners, we believe you'll have a great time.
+If you treat the Enrollment Game as a opportunity to indulge in curiosity with other motivated learners, we believe you'll have a great time.
 
 Therefore, if you want to do well, focus on those things. Improve your skills by requesting and integrating feedback. Give kind, actionable, and specific feedback to others. And collaborate with your pair to produce the best work you can.
 
@@ -171,13 +171,13 @@ Welcome to the final stage! Like the first stage, the **Re-Attempt** is a solo s
 1. Submit your challenge attempt
 1. Reflect on your learning
 
-This stage is meant to give you a clear sense of how much you've learned over the course of the Learnathon. Is the challenge easier than when you first attempted it? Are you able to get through more objectives more quickly?
+This stage is meant to give you a clear sense of how much you've learned over the course of the Enrollment Game. Is the challenge easier than when you first attempted it? Are you able to get through more objectives more quickly?
 
 After working on the challenge, submit your attempt (see the challenge for instructions) and reflect on your own learning by [logging feedback](#feedback-log).
 
 ## Fin
 
-That's it! You've completed the Learnathon!
+That's it! You've completed the Enrollment Game!
 
 Time to celebrate. Give yourself a high five. Do a little dance. Run a victory lap. Whatever. You decide.
 
@@ -187,19 +187,19 @@ Time to celebrate. Give yourself a high five. Do a little dance. Run a victory l
 
 ### Challenge
 
-When you start the Learnathon, your facilitator will provide a link to the challenge used.
+When you start the Enrollment Game, your facilitator will provide a link to the challenge used.
 
-In the meantime, you can work on the [example challenge][example-challenge-gist]. It's similar to what you will encounter during the actual Learnathon.
+In the meantime, you can work on the [example challenge][example-challenge-gist]. It's similar to what you will encounter during the actual Enrollment Game.
 
 ### Feedback Log
 
-When you start the Learnathon, your facilitator will provide a link to the Feedback Log.
+When you start the Enrollment Game, your facilitator will provide a link to the Feedback Log.
 
 It will cover similar information to the list of [essential skills](#essential-skills)
 
 ### Prep Tutorials
 
-Before starting the Learnathon, you should have 50+ hours of programming experience. If you don't know where to begin, we recommend the following tutorials:
+Before starting the Enrollment Game, you should have 50+ hours of programming experience. If you don't know where to begin, we recommend the following tutorials:
 
 - Complete "Make a Website", "Make an Interactive Website", and "Learn the Command Line", "Learn SQL", and "JavaScript" tracks on [Codecademy][codecademy-tutorials]
 - Go through the HTML & CSS course on [Shay Howe's site][shay-howe]
