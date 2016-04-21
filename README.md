@@ -185,7 +185,7 @@ In the meantime, you can work on the [example challenge][example-challenge-gist]
 
 ### Submission Form
 
-After each attempt, submit your challenge using the Submission Form: [https://www.surveymonkey.com/r/learnathon-submission](https://www.surveymonkey.com/r/learnathon-submission).
+After each attempt, submit your challenge using the Submission Form: [https://www.surveymonkey.com/r/eg-submission](https://www.surveymonkey.com/r/eg-submission).
 
 ### Feedback Log
 
