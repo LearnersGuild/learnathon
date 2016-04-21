@@ -151,4 +151,4 @@ Each Player should be emailed a copy of the [Exit Survey](TODO: add link).
 
 In order to be eligible for Round 2 selection, a Player has to complete the Exit Survey.
 
-[feedback-form]: https://www.surveymonkey.com/r/learnathon-feedback-log
+[feedback-form]: https://www.surveymonkey.com/r/eg-feedback-log

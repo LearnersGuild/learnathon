@@ -1,9 +1,10 @@
 # Materials
 
-_Key materials for the Learnathon_
+_Key materials for the Enrollment Game_
 
-- Feedback Log: https://www.surveymonkey.com/r/learnathon-feedback-log
-- Submission Form: https://www.surveymonkey.com/r/learnathon-submission
+- Feedback Log: https://www.surveymonkey.com/r/eg-feedback-log
+- Submission Form: https://www.surveymonkey.com/r/eg-submission
+- Flags: https://www.surveymonkey.com/r/eg-flags
 - Challenge: https://gist.github.com/lg-bot/f306837bb0fd958ef5de
 - Example Challenge: https://gist.github.com/lg-bot/d3653ebe023f0f515644
 
@@ -14,5 +15,4 @@ _Scripts and background information_
 
 _Scoring materials_
 
-- Final Scorecard: https://www.surveymonkey.com/r/learnathon-scorecard
-- Challenge Improvement Rubric:  https://www.surveymonkey.com/r/learnathon-improvement-calculator
+- Final Scorecard: https://www.surveymonkey.com/r/eg-scorecard

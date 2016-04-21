@@ -13,7 +13,7 @@ This document will help you understand how to fulfill your accountabilities well
 You should be familiar with the full structure of the Learnathon to best understand these instructions. At the very least, you should read:
 
 - The [README](./README.md)
-- The [Round 1 challenge](./challenge)
+- The [challenge](./challenge)
 - The list of [Essential Skills](./README.md#essential-skills)
 
 For more background information about the Learnathon, read the [Enrollment Game Design document](https://docs.google.com/document/d/10_ZUYvicCy8nMCRwJG_FaR0EwRQbBKZdTw9u2CaeA_0/edit#).
@@ -30,8 +30,6 @@ The Challenge Improvement score will not be available, because you haven't evalu
 
 To determine the Challenge Improvement score, you will need access to the Player's initial and final challenge submission (in the form of GitHub gists).
 
-Use the [challenge improvement rubric][challenge-improvement-rubric] to score the Player.
-
 Use any of the example challenge solutions to compare code against if you need a sense of what a _good_ solution looks like:
 
 - [Example Solution to Objective 1](./solutions/obj-1/)
@@ -46,5 +44,4 @@ Once you've gathered the appropriate data and evaluated a Player's challenge sub
 
 Do this once per Player per round. Make sure to include your email on this form so that you get credit for the evaluation.
 
-[scorecard]: https://www.surveymonkey.com/r/learnathon-scorecard
-[challenge-improvement-rubric]: https://www.surveymonkey.com/r/learnathon-improvement-calculator
+[scorecard]: https://www.surveymonkey.com/r/eg-scorecard
