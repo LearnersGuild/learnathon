@@ -42,7 +42,7 @@ There are 4 stages:
 1. [First Attempt](#first-attempt)
 2. [Team Learning](#team-learning)
 3. [Final Attempt](#final-attempt)
-4. [Retrospective](#Retrospective)
+4. [Retrospective](#retrospective)
 
 In the **First Attempt**, you'll attempt to solve a coding challenge on your own. You probably won't finish it, but that's OK—you're not supposed to finish it in this stage.
 
@@ -169,7 +169,7 @@ At the end of the game, take some time to reflect on your learning. Log reflecti
 
 The logged feedback is **confidential and anonymous**—the feedback you give them will be anonymized and bundled up with other feedback after you submit it.
 
-## Fin
+_Fin_
 
 That's it! You've completed the Enrollment Game!
 
