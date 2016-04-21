@@ -51,8 +51,6 @@ https://gist.github.com/your-github-username/lettersandnubmers8123u12
 
 Make sure you update your gist with the latest version of your code! You'll need to edit the files in the gist and copy over your code from JS Bin.
 
-The [Submitting Code video][submitting-code-video] demonstrates this process.
-
 ## Challenge Objectives
 
 Complete each of the challenge objectives in order.
@@ -157,4 +155,3 @@ This objective is intentionally open-ended. There are no tests (unless you want 
 [getting-started-video]: https://shereef.wistia.com/medias/ax4r5jfx38
 [running-tests-video]: https://shereef.wistia.com/medias/mj5xk19x73
 [objective-one-video]: https://shereef.wistia.com/medias/5vdc59rxj9
-[submitting-code-video]: https://shereef.wistia.com/medias/2qcpmcokum

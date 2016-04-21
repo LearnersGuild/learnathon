@@ -1,8 +1,8 @@
-# Learnathon
+# Enrollment Game
 
-Welcome to the Learners Guild Learnathon!
+Welcome to the Learners Guild Enrollment Game!
 
-The Learnathon is a chance to practice collective learning by working on a set challenge over the course of multiple sessions.
+The Enrollment Game is a chance to practice collective learning by working on a set challenge over the course of multiple sessions.
 
 **How much can _you_ learn?**
 
@@ -10,64 +10,66 @@ The Learnathon is a chance to practice collective learning by working on a set c
 
 ## Pre-Requirements
 
-Before you can start the Learnathon, you'll need three things:
+Before you can start the Enrollment Game, you'll need three things:
 
 1. A [GitHub account](https://github.com/join)
 2. Basic knowledge of HTML, CSS, and JavaScript
 3. A desire to learn
 
-It is _strongly recommended_ that you also:
+It is _strongly recommended_ that you also do the [Example Challenge][example-challenge-gist].
 
-- Complete the [Prep Tutorials](#prep-tutorials)
-- Go through the [Example Challenge][example-challenge-gist]
+If you're fuzzy on HTML/CSS and JavaScript, we recommend that you complete the [Prep Tutorials](#prep-tutorials).
 
 ## How to Engage
 
-**Your goal** is to complete the challenge as best you can, and to learn as much from your peers so that you can improve your skills over the course of the Learnathon. The more you are able to improve, the better your overall score.
+**Your goal** is to complete the challenge as best you can, and to collaborate with your team to learn and improve together. The more you improve your challenge and help your team, the better your overall score.
 
 You need these materials:
 
 1. A [challenge](#challenge) (coding problem to work on)
 1. A [feedback log](#feedback-log) (place to record feedback)
 
-Your facilitator will provide you with a link to a **feedback log** as well as to your **challenge**.
+Your facilitator will provide you with a link to both.
 
 Once you have these materials, you are ready to start Stage 1 (see below).
 
-_Note: this [example challenge][example-challenge-gist] is similar to what you will encounter during the actual Learnathon. We highly recommend trying your hand at it before attending. Make sure to read the instructions thoroughly._
+_Note: this [example challenge][example-challenge-gist] is similar to what you will encounter during the actual Enrollment Game. We highly recommend trying your hand at it before attending. Make sure to read the instructions thoroughly._
 
 ### Stages
 
-There are 3 stages:
+There are 4 stages:
 
 1. [First Attempt](#first-attempt)
-2. [Pair Learning](#pair-learning)
-3. [Re-Attempt](#re-attempt)
+2. [Team Learning](#team-learning)
+3. [Final Attempt](#final-attempt)
+4. [Retrospective](#retrospective)
 
-In the **First Attempt**, you'll attempt to solve a coding challenge on your own. You probably won't finish it, but that's OK—you're not supposed to finish it.
+In the **First Attempt**, you'll attempt to solve a coding challenge on your own. You probably won't finish it, but that's OK—you're not supposed to finish it in this stage.
 
-During the **Pair Learning** stage, you'll work with other learners on the same challenge in a series of pairing sessions. This is an opportunity to share skills and knowledge, and to get valuable feedback from your pair.
+During the **Team Learning** stage, you'll work with a team of other learners on the same challenge. This is an opportunity to share skills and knowledge with your team, and to collectively come up with interesting approaches and solutions.
 
-Finally, in the **Re-Attempt** stage, you'll work on your own on the same challenge. This time, you'll start _from scratch_ to see how much further you can get than in the First Attempt.
+In the **Final Attempt** stage, you'll work on your own on the same challenge. This time, you'll start _from scratch_ to see how much further you can get than in the First Attempt.
+
+Finally, the **Retrospective** is a time to reflect on your learning, give feedback to your team, and share insights. The first part of the Retrospective is a solo exercise, and then we'll gather as a group.
 
 ### Selection for Enrollment
 
-There is no single winner of the Learnathon. After the Learnathon is over, Learners Guild will review the data collected and determine whom to invite to Round 2 of Enrollment.
+There is no single winner of the Enrollment Game. After collecting the data from all of our Enrollment Games, Learners Guild will review the outcomes and select whom to invite to our upcoming cohorts.
 
 We look at the following metrics:
 
-1. How much you can learn (by creating a great challenge solution)
-1. How much you can help others learn (by being a great pair)
+1. How much you can learn
+1. How well you work in a team
 
 #### How to _Really_ Do Well
 
-_All that being said_, the Learnathon works best if you consider it as an opportunity for rich, fun learning. It is as much for _you_ to evaluate _us_.
+_All that being said_, the Enrollment Game works best if you consider it as an opportunity for rich, fun learning. It is as much for _you_ to evaluate _us_.
 
 How well do we nurture a collective learning environment? Is the work fun? Do you get to learn? Consider these and other questions as you go through the day.
 
-If you treat the Learnathon as a opportunity to indulge in curiosity with other motivated learners, we believe you'll have a great time.
+If you treat the Enrollment Game as a opportunity to indulge in curiosity with other motivated learners, we believe you'll have a great time.
 
-Therefore, if you want to do well, focus on those things. Improve your skills by requesting and integrating feedback. Give kind, actionable, and specific feedback to others. And collaborate with your pair to produce the best work you can.
+Therefore, if you want to do well, focus on those things. Improve your skills by asking questions and exploring possible answers with your team. Share your knowledge and support your team.
 
 ### Rules
 
@@ -76,7 +78,8 @@ This is a _collaborative_ activity, not a competitive one. You will do better if
 If you follow these rules, you will do well.
 
 1. **Be honest.** A good learning environment requires truth.
-1. **Be kind and respectful.** Learning is a vulnerable act, so go easy on yourself and others.
+1. **Be kind.** Learning is a vulnerable act, so go easy on yourself and others.
+1. **Be respectful.** This should be obvious. Don't be a jerk.
 1. **Be willing to play.** Follow curiosity with your pair.
 1. **Practice keyboard consent.** Never touch someone else's computer without their explicit permission.
 1. **Give [good feedback](#what-is-good-feedback)**. Feedback powers the engines of learning.
@@ -85,99 +88,90 @@ OK, so we won't kick you out for not being playful. But you'll definitely have a
 
 ## First Attempt
 
-The first stage is a solo session (i.e. you work on your own). There are three steps:
+The first stage is a solo session (i.e. you work on your own).
 
-1. Work on the challenge
-1. Submit your challenge attempt
-1. Reflect on your learning
-
-During this stage, you will attempt to solve the objectives in the [challenge](#challenge) on your own. After working on the challenge, submit your attempt (see the challenge for instructions) and reflect on your own learning by [logging feedback](#feedback-log).
+During this stage, you will attempt to solve the objectives in the [challenge](#challenge) on your own. After working on the challenge, save your gist and submit your solution with the [submission form](#submission-form)
 
 You won't have time to complete the whole challenge. The goal is simply to get as far as you can. In the next stage, you'll continue improving on your attempt.
 
-## Pair Learning
+## Team Learning
 
-During pair learning, you'll work with a peer on the same challenge. You can think of it like group problem solving.
+During team learning, you'll work with a team to solve and improve the challenge. You can think of it like group problem solving.
 
-At the end of each pairing session, you'll give feedback to your pair.
+Stages of a team learning session (repeat as needed):
 
-Stages of a pairing session:
+1. Share and sync up
+1. Design together
+1. Implement in pairs
+1. Review
 
-1. Check-in
-1. Sync up
-1. Build together
-1. Log feedback
-1. Share feedback
-1. Wrap up
+### 1. Share and sync up
 
-### 1. Check-in
+Since you and the rest of your team are likely at different stages in the challenge, the first step is to share your knowledge and sync up your solutions.
 
-As soon as you sit down with your pair, start with a check-in.
+The purpose of syncing up is to build on the collective knowledge and ideas of the team. Each member likely had unique and interesting approaches to the challenge that other members could benefit from.
 
-Say hi to your pair! Introduce yourself, and share which skills you are aiming to improve so that your pair can give you the most useful feedback. Help your pair help you.
+With your team, share and discuss your solutions. Highlight interesting approaches, and look for the ways in which your solutions are similar and different.
 
-Give them time to do the same.
+### 2. Design together
 
-### 2. Sync up
+Once the team has sync'ed up, it is ready to start moving forward on the challenge (i.e. start the next objective).
 
-Since you and your pair are likely at different stages in the challenge, the first step is to sync up.
+Before beginning to actually _write code_, it's always a good idea to spend some time thinking about the problem and designing a solution.
 
-Syncing up will mean different things depending on the relative states of each person.
+With your team, discuss different ways to solve the next objective. Consider things like:
 
-If one person has completed more objectives than the other, the farther-along person should help their pair get caught up.
+- What data will you need? Where will it come from?
+- What kinds of functions will you need to write, and what will they do?
+- What are the inputs and outputs of each function?
+- What is the flow of events? How will users interact with the program, and how will the program respond?
 
-This doesn't mean _solving the problem for them_, but rather guiding them and helping them to understand what they need to complete the objectives.
+Once you've spent some time (5-15 minutes, usually) discussing a design, break into pairs to work on writing code.
 
-If both you and your pair have completed the same objectives, sync up by comparing your code and sharing what you learned.
+### 3. Implement in pairs
 
-### 3. Build together
+Once you've designed an approach, you're ready to implement the solution with a pair. With your pair, implement the design your team has come up with as best you can.
 
-Once you've synced up, you're ready to build together. With your pair, attempt to solve the next objectives in the challenge.
+You should both write code on your own computers, but agree upon what to write. Related question: [How do I "build together"?](#how-do-i-build-together)
 
-Get as far as you can in the time allotted, and don't worry about completing the _entire_ challenge. It is designed to be _challenging_, after all.
+If you need help or run into problems you can't figure out, ask your team! That's what they're there for.
 
-At the end of this stage, follow the instructions in the challenge to **submit your code**.
+At the end of this stage, [submit your code](#submission-form).
 
-Related question: [How do I "build together"?](#how-do-i-build-together)
+### 4. Review
 
-### 4. Log feedback
+Once you finish implementing with your pair, review your work together.
 
-After practice time is over, stop working on the challenge and take a few minutes to log feedback for your pair.
+Is the code clean? Is it well formatted? Did you test it for any bugs?
 
-Each pair should log feedback on their own computer using the [feedback log](#feedback-log).
+Once you've reviewed, get back together with your team and start over with a new "Share and sync up".
+
+## Final Attempt
+
+After co-learning with your team, you are now ready to test your new skills and knowledge by taking a fresh attempt at the challenge.
+
+Like the first stage, the **Final Attempt** is a solo session (i.e. you work on your own). There are four steps:
+
+1. Restart the challenge: create a new, empty gist (or delete your code) and start over from the first objective
+1. Complete as much as you can using your newfound skills
+1. Submit your challenge attempt using the [submission form](#submission-form)
+1. Reflect on your learning using the [feedback log](#feedback-log)
+
+This stage is the real deal! How much have you learned with your team? How much more skilled are you after a day of collective learning?
+
+It is meant to give you a sense of how much you've learned over the course of the Enrollment Game. Is the challenge easier than when you first attempted it? Are you able to get through more objectives more quickly?
+
+After working on the challenge, [submit your attempt](#submission-form).
+
+## Retrospective
+
+At the end of the game, take some time to reflect on your learning. Log reflections for yourself and give feedback to your team using the [feedback log](#feedback-log).
 
 The logged feedback is **confidential and anonymous**—the feedback you give them will be anonymized and bundled up with other feedback after you submit it.
 
-### 5. Share feedback
+_Fin_
 
-After you log feedback in the computer, share some highlights with your pair verbally.
-
-When sharing feedback with your pair, make sure to give good feedback.
-
-Related question: [What is good feedback?](#what-is-good-feedback)
-
-### 6. Wrap up
-
-Congrats! You've finished a pair learning session. Hopefully you learned something, and are better equipped to tackle the challenge.
-
-Thank your pair for working with you, shake hands or give them a high five (whichever you prefer), and move on to your next session!
-
-## Re-Attempt
-
-Welcome to the final stage! Like the first stage, the **Re-Attempt** is a solo session (i.e. you work on your own). There are four steps:
-
-1. Restart the challenge (create a new, empty gist and start over from the first objective)
-1. Complete as much as you can using your newfound skills
-1. Submit your challenge attempt
-1. Reflect on your learning
-
-This stage is meant to give you a clear sense of how much you've learned over the course of the Learnathon. Is the challenge easier than when you first attempted it? Are you able to get through more objectives more quickly?
-
-After working on the challenge, submit your attempt (see the challenge for instructions) and reflect on your own learning by [logging feedback](#feedback-log).
-
-## Fin
-
-That's it! You've completed the Learnathon!
+That's it! You've completed the Enrollment Game!
 
 Time to celebrate. Give yourself a high five. Do a little dance. Run a victory lap. Whatever. You decide.
 
@@ -187,19 +181,23 @@ Time to celebrate. Give yourself a high five. Do a little dance. Run a victory l
 
 ### Challenge
 
-When you start the Learnathon, your facilitator will provide a link to the challenge used.
+When you start the Enrollment Game, your facilitator will provide a link to the challenge used.
 
-In the meantime, you can work on the [example challenge][example-challenge-gist]. It's similar to what you will encounter during the actual Learnathon.
+In the meantime, you can work on the [example challenge][example-challenge-gist]. It's similar to what you will encounter during the actual Enrollment Game.
+
+### Submission Form
+
+After each attempt, submit your challenge using the Submission Form: [https://www.surveymonkey.com/r/learnathon-submission](https://www.surveymonkey.com/r/learnathon-submission).
 
 ### Feedback Log
 
-When you start the Learnathon, your facilitator will provide a link to the Feedback Log.
+When you start the Enrollment Game, your facilitator will provide a link to the Feedback Log.
 
-It will cover similar information to the list of [essential skills](#essential-skills)
+It will cover similar information to the list of [essential skills](#essential-skills).
 
 ### Prep Tutorials
 
-Before starting the Learnathon, you should have 50+ hours of programming experience. If you don't know where to begin, we recommend the following tutorials:
+Before starting the Enrollment Game, you should have 50+ hours of programming experience. If you don't know where to begin, we recommend the following tutorials:
 
 - Complete "Make a Website", "Make an Interactive Website", and "Learn the Command Line", "Learn SQL", and "JavaScript" tracks on [Codecademy][codecademy-tutorials]
 - Go through the HTML & CSS course on [Shay Howe's site][shay-howe]
