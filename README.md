@@ -37,17 +37,20 @@ _Note: this [example challenge][example-challenge-gist] is similar to what you w
 
 ### Stages
 
-There are 3 stages:
+There are 4 stages:
 
 1. [First Attempt](#first-attempt)
 2. [Team Learning](#team-learning)
 3. [Final Attempt](#final-attempt)
+4. [Retrospective](#Retrospective)
 
 In the **First Attempt**, you'll attempt to solve a coding challenge on your own. You probably won't finish it, but that's OK—you're not supposed to finish it in this stage.
 
 During the **Team Learning** stage, you'll work with a team of other learners on the same challenge. This is an opportunity to share skills and knowledge with your team, and to collectively come up with interesting approaches and solutions.
 
-Finally, in the **Final Attempt** stage, you'll work on your own on the same challenge. This time, you'll start _from scratch_ to see how much further you can get than in the First Attempt.
+In the **Final Attempt** stage, you'll work on your own on the same challenge. This time, you'll start _from scratch_ to see how much further you can get than in the First Attempt.
+
+Finally, the **Retrospective** is a time to reflect on your learning, give feedback to your team, and share insights. The first part of the Retrospective is a solo exercise, and then we'll gather as a group.
 
 ### Selection for Enrollment
 
@@ -93,74 +96,61 @@ You won't have time to complete the whole challenge. The goal is simply to get a
 
 ## Team Learning
 
-During pair learning, you'll work with a peer on the same challenge. You can think of it like group problem solving.
+During team learning, you'll work with a team to solve and improve the challenge. You can think of it like group problem solving.
 
-At the end of each pairing session, you'll give feedback to your pair.
+Stages of a team learning session (repeat as needed):
 
-Stages of a pairing session:
+1. Share and sync up
+1. Design together
+1. Implement in pairs
+1. Review
 
-1. Check-in
-1. Sync up
-1. Build together
-1. Log feedback
-1. Share feedback
-1. Wrap up
+### 1. Share and sync up
 
-### 1. Check-in
+Since you and the rest of your team are likely at different stages in the challenge, the first step is to share your knowledge and sync up your solutions.
 
-As soon as you sit down with your pair, start with a check-in.
+The purpose of syncing up is to build on the collective knowledge and ideas of the team. Each member likely had unique and interesting approaches to the challenge that other members could benefit from.
 
-Say hi to your pair! Introduce yourself, and share which skills you are aiming to improve so that your pair can give you the most useful feedback. Help your pair help you.
+With your team, share and discuss your solutions. Highlight interesting approaches, and look for the ways in which your solutions are similar and different.
 
-Give them time to do the same.
+### 2. Design together
 
-### 2. Sync up
+Once the team has sync'ed up, it is ready to start moving forward on the challenge (i.e. start the next objective).
 
-Since you and your pair are likely at different stages in the challenge, the first step is to sync up.
+Before beginning to actually _write code_, it's always a good idea to spend some time thinking about the problem and designing a solution.
 
-Syncing up will mean different things depending on the relative states of each person.
+With your team, discuss different ways to solve the next objective. Consider things like:
 
-If one person has completed more objectives than the other, the farther-along person should help their pair get caught up.
+- What data will you need? Where will it come from?
+- What kinds of functions will you need to write, and what will they do?
+- What are the inputs and outputs of each function?
+- What is the flow of events? How will users interact with the program, and how will the program respond?
 
-This doesn't mean _solving the problem for them_, but rather guiding them and helping them to understand what they need to complete the objectives.
+Once you've spent some time (5-15 minutes, usually) discussing a design, break into pairs to work on writing code.
 
-If both you and your pair have completed the same objectives, sync up by comparing your code and sharing what you learned.
+### 3. Implement in pairs
 
-### 3. Build together
+Once you've designed an approach, you're ready to implement the solution with a pair. With your pair, implement the design your team has come up with as best you can.
 
-Once you've synced up, you're ready to build together. With your pair, attempt to solve the next objectives in the challenge.
+You should both write code on your own computers, but agree upon what to write. Related question: [How do I "build together"?](#how-do-i-build-together)
 
-Get as far as you can in the time allotted, and don't worry about completing the _entire_ challenge. It is designed to be _challenging_, after all.
+If you need help or run into problems you can't figure out, ask your team! That's what they're there for.
 
-At the end of this stage, follow the instructions in the challenge to **submit your code**.
+At the end of this stage, [submit your code](#submission-form).
 
-Related question: [How do I "build together"?](#how-do-i-build-together)
+### 4. Review
 
-### 4. Log feedback
+Once you finish implementing with your pair, review your work together.
 
-After practice time is over, stop working on the challenge and take a few minutes to log feedback for your pair.
+Is the code clean? Is it well formatted? Did you test it for any bugs?
 
-Each pair should log feedback on their own computer using the [feedback log](#feedback-log).
-
-The logged feedback is **confidential and anonymous**—the feedback you give them will be anonymized and bundled up with other feedback after you submit it.
-
-### 5. Share feedback
-
-After you log feedback in the computer, share some highlights with your pair verbally.
-
-When sharing feedback with your pair, make sure to give good feedback.
-
-Related question: [What is good feedback?](#what-is-good-feedback)
-
-### 6. Wrap up
-
-Congrats! You've finished a pair learning session. Hopefully you learned something, and are better equipped to tackle the challenge.
-
-Thank your pair for working with you, shake hands or give them a high five (whichever you prefer), and move on to your next session!
+Once you've reviewed, get back together with your team and start over with a new "Share and sync up".
 
 ## Final Attempt
 
-Welcome to the final stage! Like the first stage, the **Final Attempt** is a solo session (i.e. you work on your own). There are four steps:
+After co-learning with your team, you are now ready to test your new skills and knowledge by taking a fresh attempt at the challenge.
+
+Like the first stage, the **Final Attempt** is a solo session (i.e. you work on your own). There are four steps:
 
 1. Restart the challenge: create a new, empty gist (or delete your code) and start over from the first objective
 1. Complete as much as you can using your newfound skills
@@ -171,7 +161,13 @@ This stage is the real deal! How much have you learned with your team? How much 
 
 It is meant to give you a sense of how much you've learned over the course of the Enrollment Game. Is the challenge easier than when you first attempted it? Are you able to get through more objectives more quickly?
 
-After working on the challenge, [submit your attempt](#submission-form) and reflect on your own learning by [logging feedback](#feedback-log).
+After working on the challenge, [submit your attempt](#submission-form).
+
+## Retrospective
+
+At the end of the game, take some time to reflect on your learning. Log reflections for yourself and give feedback to your team using the [feedback log](#feedback-log).
+
+The logged feedback is **confidential and anonymous**—the feedback you give them will be anonymized and bundled up with other feedback after you submit it.
 
 ## Fin
 
@@ -197,7 +193,7 @@ After each attempt, submit your challenge using the Submission Form: [https://ww
 
 When you start the Enrollment Game, your facilitator will provide a link to the Feedback Log.
 
-It will cover similar information to the list of [essential skills](#essential-skills)
+It will cover similar information to the list of [essential skills](#essential-skills).
 
 ### Prep Tutorials
 
