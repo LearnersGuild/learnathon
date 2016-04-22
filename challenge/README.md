@@ -123,7 +123,8 @@ Another common feature of word games is the "shuffle" button, which shuffles the
 Tasks:
 
 - Implement a "shuffle" feature for your game.
-- Write a JavaScript function called `shuffle()` that takes a string and returns a new string with the characters shuffled
+- Write a JavaScript function called `shuffle()` that takes a string and returns a new string with the characters shuffled.
+- Add a user interface element to let players shuffle the letters by clicking a button.
 
 For example, the `shuffle()` function should work like this:
 
@@ -150,6 +151,7 @@ Some ideas:
 - Make a scorecard that tracks correct and incorrect guesses.
 - Make the number of letters adjustable (i.e. can choose from more or fewer than 7 letters).
 - Assign number values to letters (like in Scrabble) and calculate a player's score using them.
+- Improve the "randomness" of your `randomLetters()` function. A good word puzzle game will give you `X`'s and `Z`'s less often than `D`'s and `P`'s. Assign different _probabilities_ for the letters of the alphabet.
 
 This objective is intentionally open-ended. There are no tests (unless you want to write some of your own ;). Have fun with it!
 
