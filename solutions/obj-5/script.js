@@ -63,7 +63,7 @@ function checkGuess() {
 
 function updateLetters() {
   // Define a new string to update the set of letters with
-  var newLetters = "ABCD";
+  var newLetters = randomLetters();
 
   // Change the contents of the element with our new letters
   document.querySelector('#letters').innerText = newLetters;
@@ -72,16 +72,24 @@ function updateLetters() {
 function randomLetters() {
   // A list of all possible letters
   var possible = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+  // A list of vowels
+  var vowels = "AEIOU";
   // This string will hold the random letters
   var randomLetters = "";
 
-  // Find a different random letter 7 times
-  for (var i = 0; i < 7; i++) {
+  // Find a different random letter 5 times
+  for (var i = 0; i < 5; i++) {
     // Generate a random index from 0-25
     var charNo = Math.floor(Math.random() * possible.length);
     // Select the letter at this random index
     randomLetters += possible.charAt(charNo);
   }
+
+  // Then add a vowel to the beginning and end (for a total of 7)
+  var firstVowelIndex = Math.floor(Math.random() * vowels.length);
+  var secondVowelIndex = Math.floor(Math.random() * vowels.length);
+  randomLetters = vowels.charAt(firstVowelIndex) + randomLetters;
+  randomLetters = randomLetters + vowels.charAt(secondVowelIndex);
 
   // Return the random letters
   return randomLetters;

@@ -49,7 +49,7 @@ When you are ready to submit your code, share the **link to your fork of the gis
 https://gist.github.com/your-github-username/lettersandnubmers8123u12
 ```
 
-Make sure you update your gist with the latest version of your code! You'll need to edit the files in the gist and copy over your code from JS Bin.
+**IMPORTANT: Make sure you update your gist with the latest version of your code! You'll need to edit the files in the gist and copy over your code from JS Bin.**
 
 ## Challenge Objectives
 
@@ -98,6 +98,7 @@ To make the game more interesting, a player should be able to generate a new ran
 Tasks:
 
 - Create a new function called `randomLetters()` that returns a string of 7 random letters from `A` to `Z`.
+- Make sure that `randomLetters()` _always_ returns a string with at least 2 vowels (otherwise it will be hard to make any words).
 - Change the `updateLetters()` function from the last objective so that it generates a new set of random letters and updates the HTML to display them.
 - Make a `<button>` that, when clicked, runs the function `updateLetters()`.
 

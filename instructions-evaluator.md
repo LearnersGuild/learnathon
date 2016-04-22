@@ -42,6 +42,6 @@ Use any of the example challenge solutions to compare code against if you need a
 
 Once you've gathered the appropriate data and evaluated a Player's challenge submission, you must submit a [Player Scorecard][scorecard].
 
-Do this once per Player per round. Make sure to include your email on this form so that you get credit for the evaluation.
+Do this **for every applicant who confirmed for enrollment game, even those who were no-shows.** Make sure to include your email on this form so that you get credit for the evaluation.
 
 [scorecard]: https://www.surveymonkey.com/r/eg-scorecard

@@ -150,7 +150,7 @@ After co-learning with your team, you are now ready to test your new skills and 
 
 Like the first stage, the **Final Attempt** is a solo session (i.e. you work on your own). There are four steps:
 
-1. Restart the challenge: create a new, empty gist (or delete your code) and start over from the first objective
+1. Restart the challenge: delete your code and start over from the first objective (you should copy over the HTML/CSS/JS starter code from the challenge)
 1. Complete as much as you can using your newfound skills
 1. Submit your challenge attempt using the [submission form](#submission-form)
 1. Reflect on your learning using the [feedback log](#feedback-log)

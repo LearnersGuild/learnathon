@@ -71,8 +71,11 @@ function runTests() {
     });
 
     assert("updateLetters() changes the letters on the page", function() {
-      var before = document.querySelector("#letters").innerText;
+      var before = "BEFORE";
+      document.querySelector("#letters").innerText = before;
+
       updateLetters();
+
       var after = document.querySelector("#letters").innerText;
 
       return before !== after;
@@ -97,6 +100,13 @@ function runTests() {
       var third = randomLetters();
 
       return (first !== second && second !== third && third !== first);
+    });
+
+    assert("randomLetters() returns a string containing at least 2 vowels", function() {
+      var letters = randomLetters();
+      var vowels = letters.match(/[aeiou]/gi);
+
+      return vowels && vowels.length >= 2;
     });
   });
 
