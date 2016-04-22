@@ -63,8 +63,8 @@ The incomplete logic in the `checkGuess()` function needs to be finished in orde
 
 Tasks:
 
-- Write the body code of the `checkGuess()` function so that it satisfies its description (provided in a comment just above the function declaration).
-- Make sure that `checkGuess()` notifies the user of correct and incorrect guesses.
+- [ ] Write the body code of the `checkGuess()` function so that it satisfies its description (provided in a comment just above the function declaration).
+- [ ] Make sure that `checkGuess()` notifies the user of correct and incorrect guesses.
 
 **GOOD NEWS!** This step has already been completed for you. The developer who solved it even recorded [this video for you to watch][objective-one-video] so you can get up-to-speed.
 
@@ -83,9 +83,9 @@ The first step is to create a function in JavaScript that can change the letters
 
 Tasks:
 
-- Create a new function in your JavaScript file called `updateLetters()`.
-- Inside this function, define a variable `newLetters` and set it to the string `"ABCD"`.
-- This function should update the contents of the `<div>` with id `letters` with the string in `newLetters`.
+- [ ] Create a new function in your JavaScript file called `updateLetters()`.
+- [ ] Inside this function, define a variable `newLetters` and set it to the string `"ABCD"`.
+- [ ] This function should update the contents of the `<div>` with id `letters` with the string in `newLetters`.
 
 For example, running `updateLetters()` should change the content of the letters `<div>` tag to `ABCD`.
 
@@ -97,10 +97,10 @@ To make the game more interesting, a player should be able to generate a new ran
 
 Tasks:
 
-- Create a new function called `randomLetters()` that returns a string of 7 random letters from `A` to `Z`.
-- Make sure that `randomLetters()` _always_ returns a string with at least 2 vowels (otherwise it will be hard to make any words).
-- Change the `updateLetters()` function from the last objective so that it generates a new set of random letters and updates the HTML to display them.
-- Make a `<button>` that, when clicked, runs the function `updateLetters()`.
+- [ ] Create a new function called `randomLetters()` that returns a string of 7 random letters from `A` to `Z`.
+- [ ] Make sure that `randomLetters()` _always_ returns a string with at least 2 vowels (otherwise it will be hard to make any words).
+- [ ] Change the `updateLetters()` function from the last objective so that it generates a new set of random letters and updates the HTML to display them.
+- [ ] Make a `<button>` that, when clicked, runs the function `updateLetters()`.
 
 If you're not sure how to generate random letters from JavaScript, the internet has many answers! Use your Google skills to find examples, but be sure to read and test them before pasting them into your code. [Run the tests](#running-tests) to check on your progress.
 
@@ -110,7 +110,7 @@ The current user interface (or UI, for short) is not very pretty. There is very 
 
 Tasks:
 
-- Write CSS (and HTML, if necessary) to make your page look nicer.
+- [ ] Write CSS (and HTML, if necessary) to make your page look nicer.
 
 If you want inspiration, you can start by trying to re-create this style:
 
@@ -122,9 +122,9 @@ Another common feature of word games is the "shuffle" button, which shuffles the
 
 Tasks:
 
-- Implement a "shuffle" feature for your game.
-- Write a JavaScript function called `shuffle()` that takes a string and returns a new string with the characters shuffled.
-- Add a user interface element to let players shuffle the letters by clicking a button.
+- [ ] Implement a "shuffle" feature for your game.
+- [ ] Write a JavaScript function called `shuffle()` that takes a string and returns a new string with the characters shuffled.
+- [ ] Add a user interface element to let players shuffle the letters by clicking a button.
 
 For example, the `shuffle()` function should work like this:
 
@@ -150,8 +150,8 @@ Some ideas:
 
 - Make a scorecard that tracks correct and incorrect guesses.
 - Make the number of letters adjustable (i.e. can choose from more or fewer than 7 letters).
-- Assign number values to letters (like in Scrabble) and calculate a player's score using them.
 - Improve the "randomness" of your `randomLetters()` function. A good word puzzle game will give you `X`'s and `Z`'s less often than `D`'s and `P`'s. Assign different _probabilities_ for the letters of the alphabet.
+- Assign number values to letters (like in Scrabble) and calculate a player's score using them.
 
 This objective is intentionally open-ended. There are no tests (unless you want to write some of your own ;). Have fun with it!
 
