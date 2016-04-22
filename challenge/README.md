@@ -49,7 +49,7 @@ When you are ready to submit your code, share the **link to your fork of the gis
 https://gist.github.com/your-github-username/lettersandnubmers8123u12
 ```
 
-Make sure you update your gist with the latest version of your code! You'll need to edit the files in the gist and copy over your code from JS Bin.
+**IMPORTANT: Make sure you update your gist with the latest version of your code! You'll need to edit the files in the gist and copy over your code from JS Bin.**
 
 ## Challenge Objectives
 
