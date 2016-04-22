@@ -98,6 +98,7 @@ To make the game more interesting, a player should be able to generate a new ran
 Tasks:
 
 - Create a new function called `randomLetters()` that returns a string of 7 random letters from `A` to `Z`.
+- Make sure that `randomLetters()` _always_ returns a string with at least 2 vowels (otherwise it will be hard to make any words).
 - Change the `updateLetters()` function from the last objective so that it generates a new set of random letters and updates the HTML to display them.
 - Make a `<button>` that, when clicked, runs the function `updateLetters()`.
 
