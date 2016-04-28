@@ -2,10 +2,10 @@
 
 _Key materials for the Enrollment Game_
 
-- Feedback Log: https://www.surveymonkey.com/r/eg-feedback-log
-- Submission Form: https://www.surveymonkey.com/r/eg-submission
+- Feedback Log: https://www.surveymonkey.com/r/eg-feedback-log [short:] http://bit.ly/eg-feedback
+- Submission Form: https://www.surveymonkey.com/r/eg-submission [short:] http://bit.ly/eg-submit
 - Flags: https://www.surveymonkey.com/r/eg-flags
-- Challenge: https://gist.github.com/lg-bot/f306837bb0fd958ef5de
+- Challenge: https://gist.github.com/lg-bot/f306837bb0fd958ef5de [short:] http://bit.ly/eg-challenge
 - Example Challenge: https://gist.github.com/lg-bot/d3653ebe023f0f515644
 
 _Scripts and background information_
