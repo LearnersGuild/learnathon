@@ -90,7 +90,7 @@ OK, so we won't kick you out for not being playful. But you'll definitely have a
 
 The first stage is a solo session (i.e. you work on your own).
 
-During this stage, you will attempt to solve the objectives in the [challenge](#challenge) on your own. After working on the challenge, save your gist and submit your solution with the [submission form](#submission-form)
+During this stage, you will attempt to solve the objectives in the [challenge](#challenge) on your own. After working on the challenge, save your gist and submit your solution with the [submission form](#submission-form).
 
 You won't have time to complete the whole challenge. The goal is simply to get as far as you can. In the next stage, you'll continue improving on your attempt.
 
@@ -115,7 +115,7 @@ With your team, share and discuss your solutions. Highlight interesting approach
 
 ### 2. Design together
 
-Once the team has sync'ed up, it is ready to start moving forward on the challenge (i.e. start the next objective).
+Once the team has synced up, it is ready to start moving forward on the challenge (i.e. start the next objective).
 
 Before beginning to actually _write code_, it's always a good idea to spend some time thinking about the problem and designing a solution.
 
