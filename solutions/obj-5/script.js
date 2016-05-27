@@ -61,9 +61,12 @@ function checkGuess() {
   return true;
 }
 
-function updateLetters() {
+function updateLetters(newLetters) {
   // Define a new string to update the set of letters with
-  var newLetters = randomLetters();
+  if (!newLetters) {
+    // If no argument is provided, use a new random set of letters
+    newLetters = randomLetters();
+  }
 
   // Change the contents of the element with our new letters
   document.querySelector('#letters').innerText = newLetters;
@@ -113,4 +116,14 @@ function shuffle(original) {
 
   // Return the shuffled string
   return shuffled;
+}
+
+function shuffleLetters() {
+  // Get letters
+  var letters = getLetters();
+  // Shuffle them
+  var shuffled = shuffle(letters);
+
+  // Update the letters with the shuffled version
+  updateLetters(shuffled);
 }
