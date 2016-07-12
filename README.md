@@ -37,18 +37,15 @@ _Note: this [example challenge][example-challenge-gist] is similar to what you w
 
 ### Stages
 
-There are 4 stages:
+There are 3 stages:
 
-1. [First Attempt](#first-attempt)
+1. [Technical Quiz](#technical-quiz)
 2. [Team Learning](#team-learning)
-3. [Final Attempt](#final-attempt)
-4. [Retrospective](#retrospective)
+3. [Retrospective](#retrospective)
 
-In the **First Attempt**, you'll attempt to solve a coding challenge on your own. You probably won't finish it, but that's OK—you're not supposed to finish it in this stage.
+In the **Technical Quiz** stage, you'll complete a quiz on your own. This quiz will cover skills like computational thinking and problem solving, and will test your knowledge of core web development topics like HTML, CSS, and JavaScript. This is very similar to a technical interview or evaluation that you'd encounter when applying for a web development job.
 
-During the **Team Learning** stage, you'll work with a team of other learners on the same challenge. This is an opportunity to share skills and knowledge with your team, and to collectively come up with interesting approaches and solutions.
-
-In the **Final Attempt** stage, you'll work on your own on the same challenge. This time, you'll start _from scratch_ to see how much further you can get than in the First Attempt.
+During the **Team Learning** stage, you'll work with a team of other learners on a coding challenge. This is an opportunity to share skills and knowledge with your team, and to collectively come up with interesting approaches and solutions. This is very similar to the daily experience of a learner at Learners Guild.
 
 Finally, the **Retrospective** is a time to reflect on your learning, give feedback to your team, and share insights. The first part of the Retrospective is a solo exercise, and then we'll gather as a group.
 
@@ -60,6 +57,7 @@ We look at the following metrics:
 
 1. How much you can learn
 1. How well you work in a team
+1. Your technical aptitude and knowledge
 
 #### How to _Really_ Do Well
 
@@ -86,13 +84,13 @@ If you follow these rules, you will do well.
 
 OK, so we won't kick you out for not being playful. But you'll definitely have a lot more fun.
 
-## First Attempt
+## Technical Quiz
 
-The first stage is a solo session (i.e. you work on your own).
+The first step is to warm up your brain by testing your new skills and knowledge with a technical quiz.
 
-During this stage, you will attempt to solve the objectives in the [challenge](#challenge) on your own. After working on the challenge, save your gist and submit your solution with the [submission form](#submission-form)
+The **Technical Quiz** is a solo session (i.e. you work on your own).
 
-You won't have time to complete the whole challenge. The goal is simply to get as far as you can. In the next stage, you'll continue improving on your attempt.
+It is meant to ensure that you have the requisite skills and knowledge to join and contribute to the learning collective. In this way, it is similar to a technical evaluation stage in any web development job interview (but a lot easier).
 
 ## Team Learning
 
@@ -136,8 +134,6 @@ You should both write code on your own computers, but agree upon what to write. 
 
 If you need help or run into problems you can't figure out, ask your team! That's what they're there for.
 
-At the end of this stage, [submit your code](#submission-form).
-
 ### 4. Review
 
 Once you finish implementing with your pair, review your work together.
@@ -145,23 +141,6 @@ Once you finish implementing with your pair, review your work together.
 Is the code clean? Is it well formatted? Did you test it for any bugs?
 
 Once you've reviewed, get back together with your team and start over with a new "Share and sync up".
-
-## Final Attempt
-
-After co-learning with your team, you are now ready to test your new skills and knowledge by taking a fresh attempt at the challenge.
-
-Like the first stage, the **Final Attempt** is a solo session (i.e. you work on your own). There are four steps:
-
-1. Restart the challenge: delete your code and start over from the first objective (you should copy over the HTML/CSS/JS starter code from the challenge)
-1. Complete as much as you can using your newfound skills
-1. Submit your challenge attempt using the [submission form](#submission-form)
-1. Reflect on your learning using the [feedback log](#feedback-log)
-
-This stage is the real deal! How much have you learned with your team? How much more skilled are you after a day of collective learning?
-
-It is meant to give you a sense of how much you've learned over the course of the Enrollment Game. Is the challenge easier than when you first attempted it? Are you able to get through more objectives more quickly?
-
-After working on the challenge, [submit your attempt](#submission-form).
 
 ## Retrospective
 
@@ -184,10 +163,6 @@ Time to celebrate. Give yourself a high five. Do a little dance. Run a victory l
 When you start the Enrollment Game, your facilitator will provide a link to the challenge used.
 
 In the meantime, you can work on the [example challenge][example-challenge-gist]. It's similar to what you will encounter during the actual Enrollment Game.
-
-### Submission Form
-
-After each attempt, submit your challenge using the Submission Form: [https://www.surveymonkey.com/r/eg-submission](https://www.surveymonkey.com/r/eg-submission).
 
 ### Feedback Log
 
