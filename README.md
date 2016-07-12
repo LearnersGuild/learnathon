@@ -39,13 +39,14 @@ _Note: this [example challenge][example-challenge-gist] is similar to what you w
 
 There are 3 stages:
 
-1. [Technical Quiz](#technical-quiz)
-2. [Team Learning](#team-learning)
+1. [Team Learning](#team-learning)
+2. [Technical Quiz](#technical-quiz)
 3. [Retrospective](#retrospective)
 
-In the **Technical Quiz** stage, you'll complete a quiz on your own. This quiz will cover skills like computational thinking and problem solving, and will test your knowledge of core web development topics like HTML, CSS, and JavaScript. This is very similar to a technical interview or evaluation that you'd encounter when applying for a web development job.
 
 During the **Team Learning** stage, you'll work with a team of other learners on a coding challenge. This is an opportunity to share skills and knowledge with your team, and to collectively come up with interesting approaches and solutions. This is very similar to the daily experience of a learner at Learners Guild.
+
+In the **Technical Quiz** stage, you'll complete a quiz on your own. This quiz will cover skills like computational thinking and problem solving, and will test your knowledge of core web development topics like HTML, CSS, and JavaScript. This is very similar to a technical interview or evaluation that you'd encounter when applying for a web development job.
 
 Finally, the **Retrospective** is a time to reflect on your learning, give feedback to your team, and share insights. The first part of the Retrospective is a solo exercise, and then we'll gather as a group.
 
@@ -83,14 +84,6 @@ If you follow these rules, you will do well.
 1. **Give [good feedback](#what-is-good-feedback)**. Feedback powers the engines of learning.
 
 OK, so we won't kick you out for not being playful. But you'll definitely have a lot more fun.
-
-## Technical Quiz
-
-The first step is to warm up your brain by testing your new skills and knowledge with a technical quiz.
-
-The **Technical Quiz** is a solo session (i.e. you work on your own).
-
-It is meant to ensure that you have the requisite skills and knowledge to join and contribute to the learning collective. In this way, it is similar to a technical evaluation stage in any web development job interview (but a lot easier).
 
 ## Team Learning
 
@@ -141,6 +134,12 @@ Once you finish implementing with your pair, review your work together.
 Is the code clean? Is it well formatted? Did you test it for any bugs?
 
 Once you've reviewed, get back together with your team and start over with a new "Share and sync up".
+
+## Technical Quiz
+
+The **Technical Quiz** is a solo session (i.e. you work on your own). It is an brief evaluation of programming aptitude.
+
+It is meant to ensure that you have the requisite skills and knowledge to join and contribute to the learning collective. In this way, it is similar to a technical evaluation stage in any web development job interview (but a lot easier).
 
 ## Retrospective
 
