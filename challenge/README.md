@@ -4,14 +4,11 @@ In this challenge, you'll build a word-guessing game like Scrabble or Boggle.
 
 The idea for this game is simple: players have to make words out of a set of letters shown on the screen.
 
-There are only two rules:
-
-- Words must use only the letters shown in the set
-- Words must be real dictionary words
+There is only one rule: words must use only the letters shown in the set.
 
 For example, if the letters shown are `N A I P L R A`, then the following words are _correct_: `PLAN`, `AIR`, `RAIN`.
 
-The following words are _incorrect_: `APE` (`E` is not one of the provided letters) and `NARL` (not a word).
+The following words are _incorrect_: `APE` (`E` is not one of the provided letters) and `NARWHAL` (no `W` or `H`).
 
 **Your task is to build a working version of this game with HTML, CSS, and JavaScript.**
 
@@ -21,11 +18,11 @@ Here's an example of what the basic version could look like:
 
 ## Getting Started
 
-1. Fork this gist (click the "Fork" button above; read this [help article](https://help.github.com/articles/forking-and-cloning-gists/) if you need more info)
-1. Open your fork in JS Bin (use the "Import Gist" feature of JS Bin, [here's how](https://jsbin.com/help/import-gists))
+1. Log into JS Bin with your GitHub account: https://jsbin.com/login
+1. Open the JS Bin source code: http://jsbin.com/yipafin/edit?html,js,output
 1. Start working on the first objective
 
-If this is unclear, watch the [Getting Started video][getting-started-video] to see how it's done.
+**Note:** to avoid losing your work using JS Bin, you will want to frequently [save snapshots](https://jsbin.com/blog/urls) of your code. You'll need a [JS Bin account](https://jsbin.com/login) to do this.
 
 ## Running Tests
 
@@ -40,16 +37,6 @@ Run your tests frequently! They're a great way to tell if you're on-track.
 If this is unclear, watch the [Running Tests video][running-tests-video] to see how it's done.
 
 _Note: these tests only test your JavaScript code, not your HTML + CSS. If the objective includes HTML + CSS components, you can't rely on the tests to tell you if you've completed the objective or not. For that, you'll have to read the objective itself._
-
-## Submitting your Code
-
-When you are ready to submit your code, share the **link to your fork of the gist**. This link will look something like:
-
-```
-https://gist.github.com/your-github-username/lettersandnubmers8123u12
-```
-
-**IMPORTANT: Make sure you update your gist with the latest version of your code! You'll need to edit the files in the gist and copy over your code from JS Bin.**
 
 ## Challenge Objectives
 
@@ -152,9 +139,9 @@ Some ideas:
 - Make the number of letters adjustable (i.e. can choose from more or fewer than 7 letters).
 - Improve the "randomness" of your `randomLetters()` function. A good word puzzle game will give you `X`'s and `Z`'s less often than `D`'s and `P`'s. Assign different _probabilities_ for the letters of the alphabet.
 - Assign number values to letters (like in Scrabble) and calculate a player's score using them.
+- Improve the `checkGuess()` function to check if the word entered is actually a real English word. You might need to use a library or an API to accomplish this.
 
 This objective is intentionally open-ended. There are no tests (unless you want to write some of your own ;). Have fun with it!
 
-[getting-started-video]: https://shereef.wistia.com/medias/ax4r5jfx38
 [running-tests-video]: https://shereef.wistia.com/medias/mj5xk19x73
 [objective-one-video]: https://shereef.wistia.com/medias/5vdc59rxj9
