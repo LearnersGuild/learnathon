@@ -96,6 +96,10 @@ Stages of a team learning session (repeat as needed):
 1. Implement in pairs
 1. Review
 
+When you're done with the team building component, you can save your code so that you can reference it in the future. You will have put a significant amount of effort into it, so don't just throw your code away!
+
+While you can save your code wherever you like, we recommend using [GitHub Gist][gh-gist] (you'll need a GitHub account). You can copy and paste your HTML, CSS, and JavaScript into their own files in a gist.
+
 ### 1. Share and sync up
 
 Since you and the rest of your team are likely at different stages in the challenge, the first step is to share your knowledge and sync up your solutions.
@@ -208,3 +212,4 @@ It is also important to give feedback on _behavior_, not _character_. Saying "Wh
 [codecademy-tutorials]: https://www.codecademy.com/learn/all
 [code-school]: https://www.codeschool.com/learn
 [shay-howe]: http://learn.shayhowe.com/html-css/
+[gh-gist]: https://gist.github.com/
